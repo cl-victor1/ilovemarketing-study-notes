@@ -1,18 +1,18 @@
-# I Love Marketing: エピソードの概要: 201-300
+# I Love Marketing: 私の勉強ノート: 201-300
 
 [English](README.en.201-300.md) | [简体中文](README.zh-CN.201-300.md) | [繁體中文](README.zh-TW.201-300.md) | [Español](README.es.201-300.md) | [Deutsch](README.de.201-300.md) | [Français](README.fr.201-300.md) | **日本語** | [Русский](README.ru.201-300.md) | [Português](README.pt.201-300.md)
 
 [← 101-200](README.ja.101-200.md) · [README.md](README.md) · [301-400 →](README.ja.301-400.md)
 
-_これは非公式のファンプロジェクトです。 I Love Marketing、Joe Polish、Dean Jacksonとは無関係です。_
+_これらは私の個人的な勉強ノートです。これらは公式ではなく、I Love Marketing、Joe Polish、Dean Jackson とは無関係です。_
 
 ## 201. Yellow Pages Roulette and A Four Step Method For Writing Compelling Ads
 
-発行済み: 2015-02-09 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing187.mp3?dest-id=200948)
+発行済み: 2015-02-09 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing187.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は定期的なイエロー ページ ルーレット ゲームをプレイし、ランダムなページで電話帳を開いて、8 つの利益アクティベーター フレームワークを使用して実際の広告を批評します。彼らは破産弁護士の広告を分析し、プレッシャーではなく啓蒙する、脅迫的ではない無料の録音メッセージを通じて、当惑している目に見えない見込み客にアプローチする方法を説明しています。次に、歯科医の広告ケーススタディを再検討し、全ページ広告を痛みに焦点を当てた小さな見出しに絞り込むことで、最も可能性の高い単一の検索者をターゲットにすることで、反応が劇的に増加したことを示しました。その過程で、彼らはピンセットのようなありふれた製品に熱心で利益を重視したコピーを書くことや、目に見える見込み客と目に見えない見込み客の違いについて話し合います。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 広告は、一般的な機能リストで広くアピールするのではなく、歯の痛みに悩む人など、最も緊急性の高い単一の見込み客をターゲットにする必要があります。
 - 無料の録音メッセージや同様の非脅迫的なツールを通じて教育を提供すると、すぐに購入する準備ができていない、当惑している、または目に見えない見込み客を変換するのに役立ちます。
@@ -20,11 +20,11 @@ Joe Polish と Dean Jackson は定期的なイエロー ページ ルーレッ�
 
 ## 202. Darren Hardy Presents 100 Years of Wisdom In 10 Minutes
 
-発行済み: 2015-02-16 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing188.mp3?dest-id=200948)
+発行済み: 2015-02-16 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing188.mp3?dest-id=200948)
 
 サクセス誌の発行人であるダレン・ハーディは、ジーニアス・ネットワークの聴衆に、これまでインタビューした中で最も影響力のある人物、高校にも通わずに巨万の富を築いた自力で成り上がった100歳以上の移民について語ります。ハーディは、この男にインタビューするために旅をし、知恵のページを期待していたが、受け取ったのはほとんど白紙のページで、その中心的な考え方は、どんな仕事においても本当に重要なのはほんのわずかだということであったと語った。彼はこれを、オズ博士が最も重要ないくつかの外科的ステップに焦点を当てたこと、スティーブ・ジョブズが焦点を良いアイデアにノーを言うことと定義したこと、そしてウォーレン・バフェットが彼に提供されたほぼすべての機会を拒否したことと結びつけます。 Hardy urges listeners to master those few vital actions instead of chasing novelty.
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 
 - 
@@ -32,11 +32,11 @@ Joe Polish と Dean Jackson は定期的なイエロー ページ ルーレッ�
 
 ## 203. Marc Goodman, Author of Future Crimes On How To Protect Yourself From Crime Online
 
-発行済み: 2015-02-23 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing189_MGoodman.mp3?dest-id=200948)
+発行済み: 2015-02-23 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing189_MGoodman.mp3?dest-id=200948)
 
 Joe Polish は、元警察官で連邦捜査局と国際刑事警察機構に助言した未来学者のマーク・グッドマン氏と、将来の犯罪に関する彼の著書から得たコネクテッド・テクノロジーの隠れた危険性について語ります。グッドマン氏は、ハッキングがどのようにして趣味から組織化された世界的ビジネスに成長したか、犯罪者がソーシャルメディアの過剰共有、ウェアラブルデバイス、埋め込み型医療機器、自動運転車、さらにはロボットをどのように悪用するか、テロリストが現在どのようにドローンや暗号化通信を使用しているかについて説明します。 He also describes how cryptocurrency enables anonymous crime and large-scale theft.会話は、ソフトウェアの更新、強力な固有のパスワード、慎重なダウンロード、制限された管理者アクセス、暗号化を含む、日常の保護のための記憶に残るフレームワークで終わります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 
 - フィットネス トラッカー、医療用インプラント、自動車、スマート ホーム ガジェットなどの日常的なデバイスは、すべてセキュリティが弱い接続されたコンピューターであるため、ハッキングされる可能性があります。
@@ -44,11 +44,11 @@ Joe Polish は、元警察官で連邦捜査局と国際刑事警察機構に助
 
 ## 204. Oscar Winner Patricia Arquette Interview with Joe Polish - Bonus Episode
 
-発行済み: 2015-02-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing189b_parquette.mp3?dest-id=200948)
+発行済み: 2015-02-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing189b_parquette.mp3?dest-id=200948)
 
 このボーナス エピソードは、ネッカー島でオスカー受賞女優のパトリシア アークエットと録音された短く非公式な会話 Joe Polish で、マーケティングではなく彼女の人道的活動に完全に焦点を当てています。アークエット氏は、ハイチで環境衛生システムを構築する慈善団体を設立したことについて説明し、適切な下水処理の欠如がどのように病気を蔓延させ、栄養失調を引き起こし、地域社会を貧困に陥れているかを説明しています。彼女は、未処理の廃棄物によって引き起こされたコレラの発生の顕著な例を共有し、彼女の組織は貧しい地域のほとんどのシステムとは異なり、廃棄物の収集と処理の両方を行っていることを強調しました。彼女はなぜ自分が現場に個人的に関わり続けるのか、何が彼女を動機づけているのかを語り、最後に個人としての子供たち一人一人の子育てについての考察で締めくくります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 適切な衛生設備の欠如は、世界中の貧しい地域における病気、死亡、生産性の低下の主な原因であり、多くの場合、よく知られている伝染病よりも深刻です。
 - 効果的な人道プロジェクトを拡張可能かつ持続可能にするためには、思いやりのある実践的な作業とビジネスの専門知識の両方が必要です。
@@ -56,11 +56,11 @@ Joe Polish は、元警察官で連邦捜査局と国際刑事警察機構に助
 
 ## 205. Proven Human Behavior "Hot Buttons" That Influence and Persuade People To Buy From You
 
-発行済み: 2015-03-02 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing190.mp3?dest-id=200948)
+発行済み: 2015-03-02 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing190.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、ダイレクト レスポンス マーケターの友人が独自に編集した人間の行動と説得メモのリストを基に、自由奔放に会話を交わします。これらは、新しい欲求を生み出そうとするのではなく人々がすでに持っている欲求を目覚めさせること、広範囲のリーチを追うのではなく選ばれた聴衆に焦点を絞ることの重要性、既存の信念に反論するのではなくオファーを結び付けること、希少性、持ち帰り、社会的証明などの影響力戦略を倫理的に使用することなどのアイデアをカバーしています。また、購入は欲望を満たすのではなく興奮させ、アップセルや継続的なオファーが不可欠である理由や、古いマーケティングや心理学の本を再読すると時代を超越した教訓が得られることが多い理由についても議論します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 効果的なマーケティングは、新しい欲求を作り出すのではなく、視聴者の中にすでに存在する欲求を呼び起こします。
 - 狭く明確に定義された聴衆を選択し、現在の信念を持っている人々と会うことは、大衆にリーチしたり直接議論したりするよりも効果的です。
@@ -68,11 +68,11 @@ Joe Polish と Dean Jackson は、ダイレクト レスポンス マーケタ�
 
 ## 206. Insights On Best Practices, Inspiration, and Connections To Grow Your Business From Marketing & Business Legends Jay Abraham and Joe Polish
 
-発行済み: 2015-03-06 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/161JoePolish-JayAbraham.mp3?dest-id=200948)
+発行済み: 2015-03-06 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/161JoePolish-JayAbraham.mp3?dest-id=200948)
 
 このエピソードでは、マーケティング界のレジェンド、ジェイ・エイブラハムがJoe Polishに、ジョーが優秀な起業家のために構築した黒幕コミュニティであるGenius Networkの起源と哲学、そしてその年次集会についてインタビューします。ジョーは、生き残るためにダイレクト レスポンス マーケティングを学んだ、苦労しているカーペット クリーナーから、さまざまな分野の業界リーダーを集めて協力し、お互いの成功を倍増させるコミュニティを構築するまでの軌跡をたどります。彼は、自分の選考プロセス、自己宣伝よりも真の人間関係に焦点を当てていること、そしてグループが受動的インスピレーションよりも実践的ですぐに使えるアイデアをいかに重視しているかについて説明します。会話では過去の講演者やメンバーに焦点を当て、資格のある起業家がどのように応募できるかについて最後に説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Genius Network は、Joe Polish 自身のダイレクト レスポンス マーケティングを通じて経済的困難を克服した経験から成長し、その知識を他のビジネス オーナーを支援するためにパッケージ化しました。
 - このコミュニティは、自己宣伝や迅速な取引だけを求める人ではなく、他者に価値を提供する寛大で実績重視の起業家を意図的に選別しています。
@@ -80,11 +80,11 @@ Joe Polish と Dean Jackson は、ダイレクト レスポンス マーケタ�
 
 ## 207. John Ratliff On How You Can Create A Highly Productive Company Culture
 
-発行済み: 2015-03-09 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILovemarketing191.mp3?dest-id=200948)
+発行済み: 2015-03-09 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILovemarketing191.mp3?dest-id=200948)
 
 このエピソードでは、Genius Network イベントで収録された、彼が設立し後に売却した大手留守番サービス会社の創設者であるジョン・ラトリフによる講演を特集します。ラトリフ氏は、労働倫理が弱いことや優秀な候補者がいないことについてよくある言い訳は時代遅れの考えであり、真の従業員第一の文化こそが真の競争上の優位性であると主張する。彼は、現場の離職率が非常に高いという警鐘をきっかけに、どのようにして自社の文化を徹底的に見直し、離職率を劇的に削減し、会社の価値を倍増させたかについて説明しています。彼は、表面的な特典はその背後にある誠実な哲学がなければ何の意味もないと警告し、核となる価値観、フィードバック調査、タウンホールミーティングなどの実践的なステップを共有しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 劣悪な企業文化を従業員や優秀な候補者不足のせいにするのは通常、リーダーの言い訳であり、本当の問題ではありません。
 - ゲームややる気を起こさせるポスターなどの表面的な特典は、従業員を尊重するという真の哲学と組み合わせない限り、効果がなく、逆効果になる可能性さえあります。
@@ -92,11 +92,11 @@ Joe Polish と Dean Jackson は、ダイレクト レスポンス マーケタ�
 
 ## 208. Best Selling Author Lisa Sasevich Interview About Her New Book, Boost Your Sales: How To Use Irresistible Offers Without Being Salesy
 
-発行済み: 2015-03-11 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing192.mp3?dest-id=200948)
+発行済み: 2015-03-11 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing192.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、ハート中心の起業家にセールスコンバージョンを教えることで知られるリサ・サセビッチに、押しつけがましくなく魅力的なオファーをすることに関する彼女の新しく出版された本についてインタビューします。サセビッチ氏は、見込み客は勢いを失うか、代わりに競合他社から購入するかのどちらかであるため、聴衆を教育した後に明確なオファーを提示しないのは不利益である理由を説明します。彼女は、1 人の理想的なクライアントに焦点を当てることで魅力的な変革を明らかにする方法を説明し、魅力的なオファーを 3 つの部分に分けます。つまり、明確な主要な成果物、いくつかの密接に関連したボーナス、そして健全な緊急性を生み出すリミッターです。彼女は、1 回のプレゼンテーションで数千ドルを稼いだ教師など、実際の例を紹介しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 明確なオファーを出さずに視聴者を教育したり、刺激したりすることは失礼です。興味を持った見込み客は競合他社から購入することが多いからです。
 - 一般の聴衆ではなく、1 人の理想的なクライアントに向けた具体的な変革を明確にすることで、オファーを説得力を持って説明することがはるかに簡単になります。
@@ -104,11 +104,11 @@ Joe Polish と Dean Jackson は、ハート中心の起業家にセールスコ�
 
 ## 209. Jamie Smart And The Truth About Feelings: How To Reduce Worry, Overwhelm Or Stress
 
-発行済み: 2015-03-16 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM193_JamieSmart_part1.mp3?dest-id=200948)
+発行済み: 2015-03-16 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM193_JamieSmart_part1.mp3?dest-id=200948)
 
 これは、Joe Polish と Dean Jackson が、メンタルの明晰さに関する本で知られるコーチ兼作家であるジェイミー・スマートと話す 2 部構成のインタビューのパート 1 です。スマート氏は、かつて人々が細菌を理解していなかった状況と比較しながら、ほとんどの人が心の仕組みに関する特定の基本的な事実に気づいていない、と説明しています。彼は、他者とのつながり、精神的な混乱のない明晰な思考、感情が実際にどこから来ているのかを理解するという 3 つのタイプの明晰性について説明しています。会話の中心となるのは、感情は外部の状況ではなく、今この瞬間の思考から生じ、これを認識することでストレスや圧倒感が解消されるという考えです。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - たとえそれが違うと強く感じたとしても、感情は外部の状況から直接ではなく、今この瞬間に起こっている思考から生じます。
 - 感情の原因についてこの誤解を認識すると、ストレスや圧倒された状態がすぐに解消され、すでに明らかだった解決策が明らかになることがあります。
@@ -116,11 +116,11 @@ Joe Polish と Dean Jackson は、ハート中心の起業家にセールスコ�
 
 ## 210. Jamie Smart And The Truth About Feelings: How To Reduce Worry, Overwhelm Or Stress
 
-発行済み: 2015-03-23 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM194_JamieSmart_part2.mp3?dest-id=200948)
+発行済み: 2015-03-23 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM194_JamieSmart_part2.mp3?dest-id=200948)
 
 これは、Joe Polish、Dean Jackson、著者でコーチのジェイミー・スマートとの明瞭性モデルに関する会話のパート 2 です。スマートは、感情は外部の状況からではなく、瞬間瞬間の思考からのみ生じるものであり、これに対する誤解が依存症、ストレス、不安の根本原因であると説明します。彼は、明晰さとは、テクニックによって追加されたものではなく、汚染された思考が取り除かれた後に現れる自然な状態であると説明しています。このディスカッションでは、ビジネスおよび人間関係のスキルとしての深い傾聴、なぜ誰もがリーダーシップの資質をすでに持っているのか、リーダーの個人的な明晰さはどのようにしてチーム全体に自然に広がる傾向があるのか​​について取り上げます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 不快な感情は、人の外側で何か悪いことが起こっているのではなく、その瞬間に考えたことを示しており、不快な感情を外側のものとして扱うと、依存性の対処パターンが引き起こされます。
 - 人の言葉やボディーランゲージを積極的に解読するよりも、忙しく分析することなく聞くことで、より深いつながりが生まれ、より良いビジネス成果が得られます。
@@ -128,11 +128,11 @@ Joe Polish と Dean Jackson は、ハート中心の起業家にセールスコ�
 
 ## 211. Interview with Eelco de Boer On How To Increase Subscribers, Increase Revenue and Build A Successful Business
 
-発行済み: 2015-03-30 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing195.mp3?dest-id=200948)
+発行済み: 2015-03-30 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing195.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、ヒップホップ レコードのオンライン再販からスタートし、支払い処理、電子メール マーケティング、ホスティング、電子商取引プラットフォームなど、オランダにサービスを提供する一連のビジネスを構築したオランダ人起業家 Eelco de Boer 氏にインタビューします。彼は、個人的に必要なツールを構築し、会社全体で顧客をクロスセルすることでどのように成長したかを説明し、集中力と家族の時間を守るために従業員に Facebook のパスワードを与えるなど、インターネット断食と自己規律のアウトソーシングの実践を共有しています。また、自分の天性の才能を見つけること、非生産的なプロジェクトを意図的に削除すること、リチャード ブランソンから部分的に学んだ規律あるメモを取ることの価値についても語ります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 個人的な必要性からツールを構築し、それを使って十分なサービスが提供されていない市場にサービスを提供することで、複数の企業にわたる持続的なビジネスを生み出すことができます。
 - インターネットへのアクセスを切断したり、パスワードを渡したりするなど、誘惑を完全に取り除くことは、意志の力だけに頼るよりも効果的です。
@@ -140,11 +140,11 @@ Joe Polish と Dean Jackson は、ヒップホップ レコードのオンライ
 
 ## 212. The Art Of Entrepreneurship and The Wisdom Bookshelf - I Love Marketing With Joe Polish And Dean Jackson #196
 
-発行済み: 2015-04-06 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing196.mp3?dest-id=200948)
+発行済み: 2015-04-06 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing196.mp3?dest-id=200948)
 
 このカジュアルな会話の中で、Joe Polish と Dean Jackson は、ダミアン・ハーストとその友人ワイランドのような例を用いて、アートがどのように価値を得るのかについて話し合い、コレクターは物自体ではなくアーティストのストーリーや評判を買うことが多いことを示し、これをマーケティングはストーリーテリングであるという考えに結び付けます。その後、彼らは片づけに関する近藤麻理恵の本の議論に移り、喜びを感じなくなった所有物を処分することで、どのようにして二人にとって精神的なスペース、時間、注意力が解放されたかを説明します。物理的なスペース、書籍、電子メールの受信箱を整理整頓して、明瞭さと生産性を高め、今後のイベントやおすすめの過去のエピソードに関する最新情報で締めくくります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 人々は作品そのものではなく、アーティストのストーリーや評判にお金を払うことが多く、これは強力なマーケティングがいかに知覚価値を構築するかを反映しています。
 - 喜びをもたらさなくなった所有物を段階的にではなく、カテゴリーごとに一度に捨てると、永続的な精神的な明晰さと自由が生まれます。
@@ -152,11 +152,11 @@ Joe Polish と Dean Jackson は、ヒップホップ レコードのオンライ
 
 ## 213. Joe Polish Presents To A Group Of Fine Artists About The Art Of Marketing
 
-発行済み: 2015-04-13 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing197.mp3?dest-id=200948)
+発行済み: 2015-04-13 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing197.mp3?dest-id=200948)
 
 このエピソードは、フェニックスのアートショーでファインアーティストのグループに行われたライブトーク Joe Polish を収録しており、販売は影響力であり、マーケティングはストーリーテリングであり、そのスキルだけでは決して報酬を得ることが保証されないことを説明しています。彼は、苦労しているカーペット クリーナーから依存症から回復して成功したマーケティング担当者になるまでの道のりを共有し、価格を引用する代わりに教育的な消費者ガイドを作成することで信頼を築き、価格のみの競争を終わらせた方法を説明しています。同氏は、コレクターは芸術作品そのものと同じようにアーティストとそのストーリーを購入するものだと主張し、アーティストに対し、自分のマーケティングを自分の工芸品と同じくらい真剣に扱うよう促している。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 販売は影響力であり、マーケティングはストーリーテリングであり、どちらも才能や善意だけによって保証されるものではありません。報酬を得られるかどうかはマーケティングスキルに依存します。
 - 価格を提示する代わりに無料で教育的な情報を提供すると、信頼が構築され、権威としての地位を確立し、購入者が価格のみに基づいて選択するのを防ぎます。
@@ -164,11 +164,11 @@ Joe Polish と Dean Jackson は、ヒップホップ レコードのオンライ
 
 ## 214. Two Proven Phrases To Increase Your Conversions And Transform Your Business - I Love Marketing Episode #198
 
-発行済み: 2015-04-20 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing198.mp3?dest-id=200948)
+発行済み: 2015-04-20 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing198.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、消費者の行動とコンバージョンの背後にある心理について、長年ダイレクト マーケティングおよび健康業界のコンサルタントを務める Michael Fishman にインタビューします。フィッシュマン氏は、誰かが懸賞や価値のあるコンテンツなどを通じてリストに載った経緯を理解することで、その人がどれだけ献身的で忠実であるかを予測し、日和見的な反応と献身的な反応を区別できる理由を説明します。彼は、個人ブランドと人間化された企業ブランドの違いについて説明し、人はオファーを望んでいる場合でも、何をすべきかを指示されることに抵抗するため、コマンドを与えるのではなく訪問者自身の声でオプトイン ボタンを記述するなど、実践的な表現上のアドバイスを共有します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 簡単なインセンティブまたは純粋な興味によるものであっても、人がどのようにリストに参加したり購読したりしたかによって、その人の長期的なロイヤルティと顧客としての価値が予測されます。
 - 行動喚起を命令ではなく訪問者自身の声で書くと、何をすべきかを指示されることに対する本能的な抵抗がなくなり、コンバージョンが増加します。
@@ -176,11 +176,11 @@ Joe Polish と Dean Jackson は、消費者の行動とコンバージョンの�
 
 ## 215. World Renowned Artist, Wyland On Essential Strengths And Qualities for Success - I Love Marketing Episode #199
 
-発行済み: 2015-04-27 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing199.mp3?dest-id=200948)
+発行済み: 2015-04-27 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing199.mp3?dest-id=200948)
 
 このエピソードは、世界中で描かれたクジラの壁画と環境彫刻プロジェクトで知られる海洋生物アーティスト、ワイランドへのJoe Polishのインタビューを再放送します。ワイランドは、海に夢中の飢えたアーティストから世界的に集められるブランドに至るまでの道のりを説明し、純粋に才能に頼るのではなく、起業家になり、自分のギャラリーを開き、自分の作品をマーケティングしてライセンス供与する方法を学ばなければならなかったと説明しています。彼は、真に親切であり、海洋保護と青少年教育という意味ある大義に結びついたブランドを構築することが、永続的な忠誠心とビジネスの成功を生み出したと強調し、最後にリスナーに対し、大きく考えて個人的な喜びをもたらすものに寄り添うよう促しました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 才能だけではなく、真の目的を中心に個人ブランドを構築することで、コレクターへの永続的な忠誠心と不況下でもビジネスの回復力が生まれます。
 - アーティストは、自身のギャラリーを開くなど流通を所有することで、価格設定、プレゼンテーション、顧客関係をコントロールできるようになりました。これは、他者を介してのみ販売する場合にはできませんでした。
@@ -188,11 +188,11 @@ Joe Polish と Dean Jackson は、消費者の行動とコンバージョンの�
 
 ## 216. Bizzie Gold On The Health Benefits Of Buti Yoga - Bonus Episode
 
-発行済み: 2015-04-30 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing198.1.mp3?dest-id=200948)
+発行済み: 2015-04-30 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing198.1.mp3?dest-id=200948)
 
 このボーナス エピソードでは、Joe Polish がクリスタル パレルモとビジー ゴールドに、伝統的なヨガのポーズ、部族のダンス、プライオメトリック コンディショニングを組み合わせた動作練習であるブティ ヨガについてインタビューします。創設者のビジーは、ヨガのトレーニングと中国医学やアーユルヴェーダ医学を組み合わせて、女性の身体的な効果と心の癒しを目的とした実践方法をどのように作成したかについて説明します。クリスタルは、インストラクターになることと、戦利品族と呼ばれるコミュニティが競争ではなく自信、姉妹関係、自己受容をどのように構築するかを説明します。彼らは栄養の変更、スコッツデールでの女性社交クラブの設立、トレーニングとオンラインクラスの国際的な拡大計画について話し合います。マーケティング戦略に関するものではありませんが、Polish には、その健康と起業家精神の価値のためにそれが含まれています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Buti Yoga は、ヨガ、部族ダンス、プライオメトリクスを組み合わせて、女性の体力と精神的な自信の両方を構築します。
 - 戦利品部族と呼ばれる、協力的で批判のないコミュニティ文化は、競争を励ましに置き換え、メンバーがボディイメージの葛藤を克服するのを助けます。
@@ -200,11 +200,11 @@ Joe Polish と Dean Jackson は、消費者の行動とコンバージョンの�
 
 ## 217. How To Build, Protect and Pass On Your Wealth With Myra Salzer - I Love Marketing With Joe Polish and Dean Jackson Episode #200
 
-発行済み: 2015-05-04 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing200.mp3?dest-id=200948)
+発行済み: 2015-05-04 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing200.mp3?dest-id=200948)
 
 Joe Polish は、ウェルス・コンサーバンシーの創設者であるマイラ・サルザーに、多額の富を相続する家族や個人のコーチングについてインタビューします。彼女は富の創造者と相続者を対比し、相続人は富の構築者のように失敗や自立を経験することがほとんどないため、自信が両者を分かつことが多いと指摘しています。サルツァーは、裕福な人についての固定観念、突然の遺産相続の後に起こり得る孤独と悲しみ、そして現実世界での能力を身につけるために子供たちに失敗をさせることの重要性について語ります。彼女は、お金を受け取った後の衝動的な決断を避けることを推奨し、真の慈善活動と罪悪感に駆られた寄付を区別し、裕福な顧客の匿名性、自信、家族関係を示すストーリーを共有しています。彼女はまた、相続人をより健全な金銭関係に導く書籍についても言及しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 失敗を経験し、そこから立ち直ることによって築かれる自信が、富を生み出す人とお金を相続する人を最も分けるものです。
 - 新しい相続人は、棚ぼた的な利益が得られた直後に大きな決断を下すことは避け、代わりに行動する前に変化を処理する時間を確保する必要があります。
@@ -212,11 +212,11 @@ Joe Polish は、ウェルス・コンサーバンシーの創設者であるマ
 
 ## 218. Creating a Thriving Company Culture with Zappos CEO, Tony Hsieh - I Love Marketing Episode #55
 
-発行済み: 2015-05-11 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing201.mp3?dest-id=200948)
+発行済み: 2015-05-11 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing201.mp3?dest-id=200948)
 
 Joe Polish は創設者のトニー・シェイとともにザッポス本社を訪問し、同社がどのようにして小さな靴小売業者から顧客サービスを基盤とした 10 億ドル規模のビジネスに成長したかについて話し合います。シェ氏は、10 の核となる価値観、新入社員が文化的に調和していない場合に退職金を支払う慣行、および従業員が仕事以外の社交を奨励する理由について説明します。彼らは、現在顧客がコントロールできるものとしてのブランディング、短期的な利益よりも長期的に考えることの価値、そして、基本的なニーズが満たされるとお金がもたらす幸福には限界があることを示す研究について取り上げています。シェイさんはまた、カルチャーブック、Zappos Insights トレーニング プログラム、そして名声や富を追い求めるよりも忍耐と情熱が重要であるという彼の信念についても説明しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - ザッポスは、10 の核となる価値観に基づいて、顧客サービスを 1 つの部門だけでなく会社全体の仕事として扱うことで、10 億ドル規模のブランドを構築しました。
 - 新入社員には、研修中に退職する場合には現金が提供されるため、文化に本当に適合する従業員だけが残ります。
@@ -224,11 +224,11 @@ Joe Polish は創設者のトニー・シェイとともにザッポス本社を
 
 ## 219. Brian Kurtz and Joe Polish On How To Hire A Marketing Consultant - I Love Marketing Episode #202
 
-発行済み: 2015-05-18 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing202.mp3?dest-id=200948)
+発行済み: 2015-05-18 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing202.mp3?dest-id=200948)
 
 Joe Polish と長年の友人で元 Boardroom Inc. のブライアン・カーツが、マーケティング コンサルタントを評価して雇用する方法を説明します。彼らは、測定可能なダイレクト レスポンス マーケティングと曖昧なブランド構築を対比し、優れたアドバイスは成長を約束するだけでなく、コストのかかる間違いを防ぐことを強調しています。どちらも、初期のダイレクト レスポンス コピーライターが開拓したモデルに従って、プレミアム料金を請求し、クライアントを慎重に審査し、場合によっては結果に応じてロイヤルティを獲得することについて説明しています。彼らは、メディア全体での多様化、サプリメント会社の収益を倍増させた逐次メール配信、メール リストやスピーキング スキルなどの隠れた資産を発掘する起業家支援についての話を共有します。彼らは最後に、直接的な反応を得るために不可欠な読書として古典的なマーケティング本を推奨しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - ダイレクト レスポンス マーケティングは測定可能で追跡可能ですが、ブランド構築では責任ある結果が得られずにお金が無駄になることがよくあります。
 - 経験豊富なコンサルタントやコピーライターは、定額料金ではなくロイヤルティや成果報酬で支払われることが多く、生み出された成果に応じて報酬が支払われます。
@@ -236,11 +236,11 @@ Joe Polish と長年の友人で元 Boardroom Inc. のブライアン・カー�
 
 ## 220. Return On Genius: How To Maximize Ideas, Execution and Connections - I Love Marketing Episode #203
 
-発行済み: 2015-05-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing203.mp3?dest-id=200948)
+発行済み: 2015-05-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing203.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson では、Genius に対する利益率の概念を導入しています。これは、単年で評価するのではなく、Genius Network などの高レベルのピア環境に長年浸ることによって得られる価値を測定するという考え方です。彼らは、メンバーが関係を構築し、ビジネスの軌道を変えるアイデアを適用するのに十分な期間コミットできるように、メンバーシップを 10 年間の投資として組み立てることについて話し合います。ディーンは、アイデアは最終的には実行よりも価値があると主張しますが、ジョーは、実行されないアイデアには価値がないと反論し、両者ともアイデアと行動が連携して機能することに同意します。彼らは、「どのように」ではなく「何を、誰に」を尋ねることを強調し、個人的な最新情報を共有し、今後の Genius Network Events カンファレンスを宣伝します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - メンバーシップや投資を 1 年ではなく 10 年間のコミットメントとして設定すると、人々はより深い関係を築き、はるかに大きな利益を得ることができます。
 - ディーンとジョーはアイデアと実行のどちらが重要かを議論し、良いアイデアは実際に適用されて初めて価値を生み出すという結論に達します。
@@ -248,11 +248,11 @@ Joe Polish と Dean Jackson では、Genius に対する利益率の概念を導
 
 ## 221. How To Use Business Sponsorships To Increase Revenue with Robin Robins - I Love Marketing Episode #204
 
-発行済み: 2015-06-01 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing204.mp3?dest-id=200948)
+発行済み: 2015-06-01 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing204.mp3?dest-id=200948)
 
 Joe Polish では、IT 業界の主要なマーケティング トレーナーである Robin Robins を紹介し、ビジネスにスポンサー収入を追加することについて短い話をします。彼女は、自社が単に製品を販売するだけでなく、イベントテーブルや共同ブランドのトレーニングプログラムなどのスポンサーシップを販売することで、純粋な利益として何十万ドルも稼いでいる方法を説明しました。ロビンズ氏は、テクノロジー ベンダーと提携することでマーケティング コストをほとんどかけずに数百万ドルの売上を生み出し、希少性を生み出してプレミアム価格を請求するためにスポンサーの数を制限した事例を紹介します。また、彼女は、上司の真似をし、競合ベンダーの名前を挙げることで意思決定者に働きかけ、企業に対応とコミットメントを迫る手法についても概説しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - イベントテーブルや共同ブランドのトレーニングプログラムなどのスポンサーシップを販売すると、新規顧客を獲得するコストをかけずに、ほぼ純粋な利益を生み出すことができます。
 - 受け入れられるスポンサーの数を制限すると欠乏が生じ、通常の業界料金を大幅に上回るプレミアム価格を請求することが可能になります。
@@ -260,11 +260,11 @@ Joe Polish では、IT 業界の主要なマーケティング トレーナー�
 
 ## 222. Defining Entrepreneurial Success With Joe Polish, John Raymonds, Jeff Peoples, Iman Foroutan, and Nick Nanton - I Love Marketing Episode #205
 
-発行済み: 2015-06-08 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing205.mp3?dest-id=200948)
+発行済み: 2015-06-08 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing205.mp3?dest-id=200948)
 
 XPRIZE の冒険旅行中のプライベート飛行機内で録音されたこの映像では、Joe Polish が、ニック ナントン、イマン フォルータン、ジェフ ピープルズ、ジョン レイモンドを含む、Genius Network の起業家数名との率直な会話を主導しています。各ゲストは、自由や価値の創造から個人の成長まで、起業家としての成功が自分たちにとって何を意味するのかを説明し、その後、人権擁護、子どもの読み書き技術、ダイレクトメールの生産性、個人ブランドのストーリーテリングなどにわたる慈善プロジェクトを共有します。彼らは、将来の夢を日記に記録したり、瞑想したり、静かに集中できる環境を求めたり、感謝の気持ちを実践したりするなど、毎日の儀式を行っています。エピソードは、各ゲストが若い頃の自分に与えるであろうアドバイスで終わります。勇気を強調し、助けを求め、個人の弱点を理解します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 起業家の成功は通常、お金ではなく、自由、個人の成長、他者への価値の創造によって定義されます。
 - 夢を書き留める、瞑想する、静かな場所を探す、感謝の気持ちを実践するなどの毎日の習慣は、一貫して集中力と創造性を高めます。
@@ -272,11 +272,11 @@ XPRIZE の冒険旅行中のプライベート飛行機内で録音されたこ�
 
 ## 223. How You Can Use Crowdfunding To Grow Your Business With Chance Barnett and Rafe Furst - I Love Marketing Episode #206
 
-発行済み: 2015-06-15 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing206.mp3?dest-id=200948)
+発行済み: 2015-06-15 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing206.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、株式クラウドファンディング プラットフォーム Crowdfunder の共同創設者であるチャンス バーネットとレイフ ファーストにインタビューします。ゲストたちは、新しい証券法によってどのようにしてスタートアップへの投資がより多くの人に開かれ、報酬や予約注文ではなく少額の小切手で実際の所有権を購入できるようになったのかを説明し、ミュージシャンのファンが株主になった経緯を示す Pono Player のストーリーを共有します。クラウドファンダーのビジネスモデル、公開市場と比較した典型的なリターン、リスク管理のための分散の重要性について説明しています。その後、ジョーとディーンは、株式クラウドファンディングが低コストの会社設立への広範な移行にどのように適合するかについて話し合い、資金調達の仕組みそのものよりもマーケティングと実証済みのコンセプトが重要であることを強調しました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 新しいクラウドファンディング規制により、認定投資家だけでなく一般の投資家も、はるかに少ない金額で初期段階の企業の株式を購入できるようになりました。
 - ほとんどのスタートアップは失敗するため、多くの小規模投資に分散することは、単独の勝者を選ぶことよりも重要です。
@@ -284,11 +284,11 @@ Joe Polish と Dean Jackson は、株式クラウドファンディング プラ
 
 ## 224. Mastering the Art of Effective Communication with Hugh Downs - I Love Marketing With Joe Polish And Dean Jackson Episode #207
 
-発行済み: 2015-06-22 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing207.mp3?dest-id=200948)
+発行済み: 2015-06-22 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing207.mp3?dest-id=200948)
 
 Joe Polish は、トゥデイ ショーと 20/20 のアンカーを長年務めたベテラン放送局ヒュー ダウンズに、コミュニケーションの研究に関する生涯についてインタビューします。ダウンズ氏は、私利私欲よりも視聴者との誠実な関係が重要であると説明し、競争圧力が数十年にわたってジャーナリズムをどのように変えてきたかを説明し、主題の専門知識に関係なく誰にでもインタビューするためのシンプルで構造化されたアプローチを共有しています。彼は、幅広い好奇心を通じて精神的に鋭敏さを保つこと、古典的な哲学を読むこと、健全なストレスと有害な苦痛の違い、そしてユーモアと正直な対立に基づいて築かれた長い結婚生活から得た教訓について回想します。会話は、ビジネス倫理、人間性への信頼、そして忍耐強く信頼され続けるためのアドバイスに関する彼の見解で終わります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 聴衆との誠実で誠実な関係は、私利私欲に奉仕するよりも信頼を築き、長期的な成功をもたらします。
 - 効果的な面接は、主題に関する深い専門知識ではなく、誰が、何を、どこで、いつ、なぜ、どのようにという単純な構造に依存します。
@@ -296,11 +296,11 @@ Joe Polish は、トゥデイ ショーと 20/20 のアンカーを長年務め�
 
 ## 225. Strategies for increasing lead flow, getting more customers and taking action with Chip Franks - I Love Marketing Episode #208
 
-発行済み: 2015-06-29 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing208.mp3?dest-id=200948)
+発行済み: 2015-06-29 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing208.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、不動産ブローカーでリスナーのチップ・フランクスと対談します。チップ・フランクスは、以前のエピソードでジョーが浮かんだアイデアを JoeVolunteer.com に変えました。このサービスは、配車アプリが運転手と乗客をマッチングするのと同じくらい簡単に、意欲的なボランティアと老人ホーム、シェルター、退役軍人、その他の団体をマッチングすることを目的としています。チップは、ビジネスプランとプロトタイプを数日で構築した方法を説明し、3 人は、規模を拡大する前に 1 つの町で小さく始めて、このベンチャーを無駄のない目的専用の組織として扱うことについて話し合います。チップ氏はまた、メッセージの録音、保証、見込み客価値の追跡など、会社を成長させた不動産マーケティング戦略や、毎週の計画やタスクの優先順位付けなどの習慣も共有しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - アイデアを現実にするには、熱意だけではなく、迅速かつ徹底的な実行が必要です。あるリスナーの素早い行動が、数日以内に実用的なコンセプトを構築することでこれを証明しました。
 - 拡張する前に、1 つの小さなローカル市場で新しいアイデアをテストして洗練させると、他の場所への拡張がはるかに容易になります。
@@ -308,11 +308,11 @@ Joe Polish と Dean Jackson は、不動産ブローカーでリスナーのチ�
 
 ## 226. Marketing And Growing An Audience By Building A Persona With Frank Kern - I Love Marketing Episode #209
 
-発行済み: 2015-07-06 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing209.mp3?dest-id=200948)
+発行済み: 2015-07-06 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing209.mp3?dest-id=200948)
 
 Joe Polish は、視聴者が密かに望んでいるライフスタイルを反映する、本物で誇張されたペルソナを中心にビジネスを構築することについて、インターネット マーケティング担当者のフランク カーンにインタビューします。カーン氏は、意識的に決断して粘り強く行動する人と、ただ手を出してしまう人を成功させることができると説明し、コピーを書く前に顧客の考え方を理解するための共感テクニックを詳しく説明します。彼は、販売とは、人々が自分たちに利益をもたらす将来の結果に感情的にコミットするのを助けることであると説明し、見せかけを排除して何気なく書くことで結果がどのように増加するかを説明し、製品の発売は、見込み客に事前に結果を与えることで期待を高めることであると説明しています。彼は、インターネットとダイレクトメールによるフォローアップを組み合わせて、調べすぎるのではなく単純に行動を起こすようリスナーに促して締めくくりました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 本物の少し誇張した自分を中心にビジネスを構築すると、捏造されたペルソナよりも強い信頼が生まれます。
 - 特定の理想的な顧客を個人的な詳細に至るまで深く理解することで、マーケティング コピーやセールス トークがより説得力のあるものになります。
@@ -320,11 +320,11 @@ Joe Polish は、視聴者が密かに望んでいるライフスタイルを反
 
 ## 227. Effective Copywriting and Lead Generation With Dan Meredith - I Love Marketing Episode #210
 
-発行済み: 2015-07-13 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing210.mp3?dest-id=200948)
+発行済み: 2015-07-13 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing210.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、経営不振のパーソナル トレーニング ジムを経営しながらかろうじて食費を稼ぐことができる状態から、健康、フィットネス、サプリメント業界にサービスを提供する直接対応代理店を立ち上げるまでに至った英国のコピーライター、ダン メレディスにインタビューします。メレディスは、限界点に達し、新しい道に全力で取り組み、メンターからコピーライティングを独学で学び、その後、粘り強さと大胆な提案によって初めての有給ライターの仕事に就いたことについて語ります。彼は、1 人の理想的な顧客を深く理解し、競合他社が集まるイベントではなく実際の顧客が集まるイベントに参加し、真の関係を育み、インスピレーションを得るためのスワイプ ファイルを保管し、ポストカードのような実証済みのオフライン戦略を好むことが、彼の急速な成長を促進したと説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 特定の理想的な顧客について深く調査し、話をすることは、すべての人にアピールするよりもはるかに効果的なマーケティングを生み出します。
 - 同業他社とのネットワーキングだけでなく、実際の顧客が時間を過ごすイベントに参加すると、はるかに貴重なビジネスチャンスが生まれます。
@@ -332,11 +332,11 @@ Joe Polish と Dean Jackson は、経営不振のパーソナル トレーニン
 
 ## 228. How To Use Crowdfunding To Increase Your Reach And Define Your Customers With Slava Rubin - I Love Marketing Episode #211
 
-発行済み: 2015-07-20 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing211.mp3?dest-id=200948)
+発行済み: 2015-07-20 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing211.mp3?dest-id=200948)
 
 このエピソードでは、クラウドファンディング プラットフォーム Indiegogo の共同創設者である Slava Rubin によるライブ プレゼンテーションを特集し、規模を問わず起業家がクラウドファンディングに注目すべき理由を説明します。彼は、自由の女神の新聞主導の募金キャンペーンから、証券取引委員会、銀行、クレジット カード、オンライン決済の創設を経て、Indiegogo の現在の記録を樹立するテクノロジー キャンペーンに至るまで、その歴史をたどります。ルービン氏は、クラウドファンディングは資本以上のものを提供すると主張する。クラウドファンディングは市場が本当に製品を望んでいるかどうかを検証し、企業が価格や機能を安価にテストできるようにし、特別なプロモーション範囲を提供し、企業が直接の関係や自社の顧客に関するデータを取り戻すのに役立ち、それぞれのメリットを実際のキャンペーンの例で説明している。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - クラウドファンディングは市場の検証を提供し、起業家が新製品やアイデアに多額の投資をする前に需要を発見できるようにします。
 - 確立され、資金が豊富な企業は、価格設定、機能、実際の顧客とのメッセージングをテストするために今でもクラウドファンディング プラットフォームを使用しています。
@@ -344,11 +344,11 @@ Joe Polish と Dean Jackson は、経営不振のパーソナル トレーニン
 
 ## 229. The Secrets Of Email Marketing Masters with John Carlton and Dean Jackson - I Love Marketing Episode #212
 
-発行済み: 2015-07-27 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing212.mp3?dest-id=200948)
+発行済み: 2015-07-27 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing212.mp3?dest-id=200948)
 
 Dean Jackson は、ベテランのダイレクト レスポンス コピーライターのジョン カールトンと、30 代で一文無しでカウチ サーフィンをしていたところから、ジェイ エイブラハムやゲイリー ハルバートなどの先駆者たちと一緒に学び、伝説的なマーケティングの頭脳になるまでの道のりについて語ります。カールトン氏は、起業家精神にあふれ、個性を重視したコピーが、大手代理店が好む当たり障りのないスタイルよりも優れていることを発見したことについて説明し、すべてのメッセージを 1 人の読者との緊急の 1 対 1 の会話として書くという自身の哲学を説明します。彼らは、見込み客の隠れた反対意見や不安を理解すること、リスクを真に逆転させることと単にリスクを減らすことの違い、信頼を築くために保証や個人的な話を利用すること、そして短く焦点を絞ったピッチを作成することについて話し合います。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 効果的なコピーは、幅広い読者ではなく、特定の 1 人の読者との緊急で個人的な会話のように感じられる場合に最も効果的です。
 - 顧客のプライベートな不安や隠れた社内会話を理解することは、一般的な製品の特徴を説明するよりも説得力があります。
@@ -356,11 +356,11 @@ Dean Jackson は、ベテランのダイレクト レスポンス コピーラ�
 
 ## 230. How To Discover Your Natural Abilities With Kathy Kolbe - I Love Marketing Episode #213
 
-発行済み: 2015-08-03 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing213.mp3?dest-id=200948)
+発行済み: 2015-08-03 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing213.mp3?dest-id=200948)
 
 Ten Times Talk ポッドキャストからクロスポストされたこのボーナス エピソードでは、知性や性格ではなく、人の本能的な行動の取り方を測定するコルベ指数の作成者、キャシー コルベにインタビューするJoe Polish とダン サリバンが特集されています。コルベ氏は、ファクトファインダー、フォロースルー、クイックスタート、インプリメンターという 4 つのアクション モードが、一生固定される自然な操作方法を明らかにすると説明します。サリバンは、自分自身のプロフィールを発見したことで、自分に合わない仕事から解放され、補完的な強みを持つチームを構築することを学んだ方法について説明しています。彼らは採用とチーム構築について話し合い、コルベはキャリア プログラムと、弱い特性を真の強みとして再構成する本のプレビューを行います。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - コルベ指数は、人の自然な本能的な行動意欲を測定します。これは、知能検査や性格検査とは異なり、時間が経っても固定されます。
 - 同じ行動スタイルではなく、補完的な行動スタイルでチームを構築すると、同じ考えを持つ人々に囲まれるよりも対立が減り、より強力な結果が得られます。
@@ -368,11 +368,11 @@ Ten Times Talk ポッドキャストからクロスポストされたこのボ�
 
 ## 231. How To Build A Team Of Talented Millennials - I Love Marketing Episode #214
 
-発行済み: 2015-08-10 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing214.mp3?dest-id=200948)
+発行済み: 2015-08-10 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing214.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、20 歳未満の若い起業家や変革者を紹介する本の著者、19 歳のジャレッド・クライナートにインタビューします。クライナート氏は、テクノロジーを通じて常につながりを持って成長することで、若い世代の考え方、働き方、売り込み方、そして経済的成果を超えた成功の定義がどのように変化しているかを説明します。彼は著書の中で、ビジネス、社会運動、クリエイティブなキャリアを築き上げた若者たちの物語を紹介し、企業は若い労働者に命令するのではなく、彼らと協力すべきだと主張しています。また、彼自身の初期の事業失敗から得た教訓、強力な指導者に囲まれることの価値、自己教育と情熱、スキル、市場価値の重なりを見つけることに焦点を当てていることについても説明しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 若い従業員や顧客と協力し、彼らの意見に真剣に耳を傾ける企業は、彼らを売り込むだけの企業よりも強い忠誠心を獲得します。
 - 有能なメンターや優秀な仲間に囲まれると、純粋に試行錯誤を通じて学習するよりもはるかに成長が加速します。
@@ -380,11 +380,11 @@ Joe Polish と Dean Jackson は、20 歳未満の若い起業家や変革者を�
 
 ## 232. How To Create A Results Driven Company Culture And Have Gamechanging Breakthroughs - I Love Marketing Episode #215
 
-発行済み: 2015-08-17 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing215.mp3?dest-id=200948)
+発行済み: 2015-08-17 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing215.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、ピーター・ディアマンディスとともにインセンティブ付きの賞品コンテストを立ち上げるプラットフォームである HeroX の共同創設者である連続起業家のクリスチャン・コティキーニにインタビューします。コティキーニ氏は、歴史的なリンドバーグ航空賞、宇宙をテーマにしたXPRIZE、金採掘データチャレンジ、製品命名のための小さなコンテストを例に挙げて、助成金や給与ではなく現金の報酬を提供することで、いかにして群衆を動員して困難な問題を解決できるかを説明する。その後、会話は企業文化に移り、そこでコティキーニ氏は、学びへの渇望、勇気、楽しさ、シンプルさ、謙虚さを含む 5 つの核となる価値観について説明し、価値観は単に壁に貼り付けるだけでなく、実際のチームの行動から発見され、定期的に強化される場合にのみ重要であると強調します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - オープンなチャレンジに賞金を提供すると、従来の助成金、雇用、社内研究よりもはるかに多くの才能、創造性、リソースを動員できます。
 - すべての組織は、意図的であるか偶然であるかにかかわらず、すでに何らかの核となる価値観に基づいて運営されているため、リーダーは実際に望む価値観を積極的に形づくる必要があります。
@@ -392,11 +392,11 @@ Joe Polish と Dean Jackson は、ピーター・ディアマンディスとと�
 
 ## 233. How To Re-Energize Your Life, Become More Focused and Productive - I Love Marketing Episode #216
 
-発行済み: 2015-08-24 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing216.mp3?dest-id=200948)
+発行済み: 2015-08-24 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing216.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、パーソナル ファイナンスのベストセラー作家であり、フィニッシュ リッチ メディアの創設者でもあるデイビッド バック氏に、価値観に基づくビジネスの構築と燃え尽き症候群の回避についてインタビューします。バッハ氏は、売上目標ではなく情熱的な使命を中心に自分のキャリアをどのように築いてきたのか、初期の視聴者を女性に限定したことが傷つくのではなく助けになった理由、そして何年にもわたる拒絶を乗り越えた粘り強さが最終的にどのようにして大きなメディアの躍進につながったのかについて説明します。彼は、最初に自動的に自分で支払うことや、ビジネスを通じて不動産を所有することなど、基本的なお金の習慣を共有しています。会話は、慢性的な疲労を認識した後、46歳でまるまる1年間休むという決断、そのサバティカルと新しい瞑想の実践がどのようにエネルギーを回復したか、そして現在は「今はやらないことリスト」を作成し、気になる人間関係に細心の注意を払って自分の時間をどのように守っているかに移ります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - お金だけではなく、真の使命に基づいてビジネスを構築すると、何年にもわたるゆっくりとした報われない努力を通じてモチベーションが維持されます。
 - 対象ユーザーを意図的に絞り込むことは、制限があるように見えても、全員にリーチしようとするよりも強いつながりと注目を生み出すことができます。
@@ -404,11 +404,11 @@ Joe Polish と Dean Jackson は、パーソナル ファイナンスのベスト
 
 ## 234. Game Changer Episode - Part 1 - I Love Marketing Episode #217
 
-発行済み: 2015-08-31 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing217.mp3?dest-id=200948)
+発行済み: 2015-08-31 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing217.mp3?dest-id=200948)
 
 このエピソードは、Joe Polish の他の番組からの共有クロスオーバーであり、戦略コーチのビジネスコーチ、ダン・サリバンとの、ゲームチェンジャー起業家のコンセプトについての会話です。サリバン氏は、真のゲームチェンジャーは真っ向から競争するのではなく、顧客の考え方を変えることで成功し、ライバルを彼らの創造的思考にアクセスしたい潜在的な同盟者として扱うと説明します。同氏は、規制や仲介業者の層を取り除き、競合他社に適応か撤退を強いることによって業界に大規模な不平等を生み出した企業の例として、UberとAirbnbを挙げている。サリバンは、競争を乗り越え、個人の自由を拡大することを含む 8 つの考え方をカバーするスコアカード ツールを紹介します。リスナーはそれを使用して自分の考え方を評価することができ、残りの考え方についてはフォローアップ エピソードで詳しく説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 業界を真に変える企業は、単により良い製品やサービスを提供するだけではなく、顧客の考え方を変えることで成功します。
 - 競合他社を、自分のアイデアを評価してくれる潜在的な協力者と見なすことで、防御すべき脅威として扱うよりも、より多くの機会を開くことができます。
@@ -416,11 +416,11 @@ Joe Polish と Dean Jackson は、パーソナル ファイナンスのベスト
 
 ## 235. Game Changer Part 2 - I Love Marketing Episode #218
 
-発行済み: 2015-09-07 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing218.mp3?dest-id=200948)
+発行済み: 2015-09-07 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing218.mp3?dest-id=200948)
 
 これは、Joe Polish と戦略コーチのビジネスコーチ、ダン・サリバン氏とのクロスオーバー対談のパート 2 であり、ゲームチェンジャーの考え方についての議論を続けています。サリバンは、他の何千ものサービス業が同じマーケティング手法を採用するのを支援する前に、Polish 自身と自身のカーペット クリーニング業界をどのように変革したかを振り返り、大胆なアイデアに安全な成長の余地を与えてくれた外部のコーチング コミュニティの功績を認めています。彼は、自己中心的な達人と、同様に賢い人々に囲まれたい真のゲームチェンジャーを対比し、能力、創造性、信頼性、コネが最初に支払われ、現金は最後に来るという考えを導入しています。サリバン氏はまた、新しいアイデアを現実にするプロジェクトマネージャーと、既存の業務を維持するプロセスマネージャーを区別し、自主管理会社がどのように起業家を解放して未来の創造に集中できるかを説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 本当の変化は、他人に教えたり売ったりする前に、自分自身を変革し、アイデアが機能することを証明することから始まります。
 - 持続的な成功は、能力、創造性、信頼性、コネを通じて最初に報酬が得られ、最初の目標ではなく結果として現金が続くことによってもたらされます。
@@ -428,11 +428,11 @@ Joe Polish と Dean Jackson は、パーソナル ファイナンスのベスト
 
 ## 236. How To Build Rapport And Connect With Successful Entrepreneurs - I Love Marketing Episode #219
 
-発行済み: 2015-09-14 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing219.mp3?dest-id=200948)
+発行済み: 2015-09-14 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing219.mp3?dest-id=200948)
 
 このエピソードでは、Joe Polish が、カーペット クリーナーに販売方法を教えることから始めたマーケティング担当者としてのキャリアの話を活用しながら、非常に成功した有名な人々との信頼関係を築き、関係を築くためのアプローチを共有します。彼は、ユーモア、遊び心のあるからかい、弱さを共有することで形式や地位の壁をすぐに打ち破ることができ、思慮深いまたは珍しい贈り物、手書きのメモ、靴にメモを添えて送るなどの創造的な注目を集める戦術が門番を通り抜けることができると説明しています。 Polish は、人々の時間に対してお金を払うこと、何かを求める前に常に価値を生み出すこと、自分の評判を守ること、立場に関係なく誰に対しても礼儀正しく接することを強調しています。彼はまた、彼のネットワーキング哲学を形成した本や他の指導者についても言及し、リスナーが拒絶されることへの恐怖を乗り越えて、単純に手を差し伸べるよう勧めています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 遊び心のあるユーモアと人間の共通の欠点を認めることは、形式的で過度に礼儀正しい態度よりも早く成功者との信頼関係を築くことができます。
 - 手書きのメモや珍しい小さな贈り物など、創造的で予期せぬジェスチャーは門番の目を突破し、多忙な連絡先や有名な連絡先の注意を引く可能性があります。
@@ -440,11 +440,11 @@ Joe Polish と Dean Jackson は、パーソナル ファイナンスのベスト
 
 ## 237. How To Prepare For Presentations And Speaking Engagements - I Love Marketing With Joe Polish And Dean Jackson Episode #220
 
-発行済み: 2015-09-21 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing220.mp3?dest-id=200948)
+発行済み: 2015-09-21 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing220.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、何千人もの人々の前で大規模な講演を行う前の舞台裏の計画セッションを記録し、プレゼンテーションの準備と構成の方法を正確に説明します。彼らは、ポジショニングと信頼性を確立するために自動化された自己紹介ビデオでオープニングについて話し合い、その後、苦労しているカーペット クリーナーとしてのPolish と燃え尽きた不動産業者としてのジャクソンとしての自分たちの起源のストーリーを共有し、ダイレクト レスポンス マーケティングの発見が彼らのビジネスと生活をどのように変えたかを示します。短い説得力のある電子メールのテクニックや教育的な消費者ガイドのアプローチなど、いくつかの実践的な戦略を教えることについて概要を説明し、最後にビデオセールスレターのオファーで締めくくります。全体を通して、彼らは専門的な支援を得るために外部の専門家を採用すること、そして人前で話すことを、緊張が続いているにもかかわらず、繰り返しの意図的な練習によって構築されるスキルとして扱うことを強調しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 自動紹介ビデオは、話者が話し始める前に信頼とポジショニングを確立できるため、時間を節約し、即座に信頼性を構築できます。
 - マーケティングを通じて変革を遂げた個人的な苦悩のストーリーを共有することは、すぐに戦術に飛びつくよりも強い感情的なつながりを生み出します。
@@ -452,11 +452,11 @@ Joe Polish と Dean Jackson は、何千人もの人々の前で大規模な講�
 
 ## 238. How To Reduce Distractions, Get Focused and Build A Great Business - I Love Marketing Episode #221
 
-発行済み: 2015-09-28 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing221.mp3?dest-id=200948)
+発行済み: 2015-09-28 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing221.mp3?dest-id=200948)
 
 このエピソードでは、Joe Polish で紹介された、ベストセラー作家でビジネス スピーカーのブライアン トレーシーによる、気が散る要素を減らし、優れたビジネスを構築する方法についての講演が録画されています。トレイシーは、トップの成績を収めた人に共通する最も重要な特性は集中力であり、特に重大な結果を伴う選択の場合には、明晰で落ち着いた、急がずに考えるほうが、素早く反応的に考えるよりも優れた意思決定を生み出すと主張します。彼は、今知っていることを知った上で現在の取り組みを再び開始するかどうかを問うゼロベース思考や、恐怖に基づく意思決定を減らすための最悪の結果思考などのツールを紹介しています。トレーシー氏は最後に、強力なリーダーシップ、優れた製品、明確なマーケティングおよび販売プロセス、適切な数字の追跡、卓越した顧客サービスなど、ビジネスの繁栄に必要な 7 つの中核要件を挙げ、これらのビジネス スキルはすべて学習できることを強調しました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 生の才能ではなく、持続的な集中力こそが、トップ起業家や成功者に最も一貫して共有される特徴です。
 - 今知っていることを知った上で、現在の取り組みを再び開始するかどうかを問うゼロベースの思考は、何を手放すべきかをすぐに特定するのに役立ちます。
@@ -464,11 +464,11 @@ Joe Polish と Dean Jackson は、何千人もの人々の前で大規模な講�
 
 ## 239. How to Build Habit-Forming Products with Nir Eyal - I Love Marketing Episode #222
 
-発行済み: 2015-10-05 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing222.mp3?dest-id=200948)
+発行済み: 2015-10-05 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing222.mp3?dest-id=200948)
 
 Joe Polish は、ベストセラー本『Hooked』の著者である Nir ​​Eyal に、Facebook、Twitter、Instagram などの習慣形成製品の背後にある心理学についてインタビューします。 Eyal 氏は、内部または外部のトリガー、単純なアクション、スロット マシンの予測不可能性を模倣した変動報酬、および時間の経過とともに製品の価値を高めて次のトリガーを設定するユーザーの投資を通じてユーザーを動かす 4 ステップのフック モデルについて説明します。同氏は、生の製品の品質よりも、頻繁かつ無作為のエンゲージメントの方が重要であること、企業は視聴者がすでに感じている感情的なかゆみや不安を特定する必要があること、収益化は真のエンゲージメントから自然に得られるものであることを強調しています。この会話では、ギャンブルや人を操作するゲーム会社との協力をエヤル氏が拒否したことや、退役軍人や障害のある子供の親などの人々を支援するために使用されるモデルの例など、習慣デザインの倫理についても取り上げられています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - トリガー、アクション、変動報酬、投資という 4 つのステップのフック モデルは、特定の製品が単に役立つだけでなく深く習慣化される理由を説明します。
 - 長期的な成功には、単に最高のデザインの製品を提供することよりも、頻繁かつ無作為のユーザー エンゲージメントの方が重要です。
@@ -476,11 +476,11 @@ Joe Polish は、ベストセラー本『Hooked』の著者である Nir ​​E
 
 ## 240. How To Achieve Greatness, Mastery And Enduring Fulfillment - I Love Marketing Episode #223
 
-発行済み: 2015-10-12 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing223.mp3?dest-id=200948)
+発行済み: 2015-10-12 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing223.mp3?dest-id=200948)
 
 Joe Polish は、ベストセラー作家のロビン・シャーマに、リーダーシップ、習熟度、日常の習慣についてインタビューします。シャルマは、激しい運動、計画、学習という朝の日課について説明し、リーダーシップとは肩書きとは関係なく、被害者のように振る舞うのではなく、行動することを選択することから生まれると主張します。彼は、お金や地位を追い求める外部の力と、規律、奉仕、恐怖に立ち向かうことで築かれる内部の力を対比させています。シャルマは、ネルソン・マンデラや謙虚な空港管理人など、立ち直る力に関する話を共有し、なぜ永続的な成果が生まれ持った才能ではなく練習と根性によってもたらされるのかを説明します。彼は目標設定についての考えと、なぜ遺産に執着することが実際にはエゴの一形態にすぎないのかについての考えで締めくくっています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 本当のリーダーシップとは、肩書、収入、仕事に関係なく、誰でも採用できる考え方であり、状況のせいにするのではなく行動することを選択することを意味します。
 - 持続的な個人の力は、お金、名声、財産からではなく、内なる規律、他者への奉仕、恐怖に立ち向かうことからもたらされます。
@@ -488,11 +488,11 @@ Joe Polish は、ベストセラー作家のロビン・シャーマに、リー
 
 ## 241. The Truth About Creating And Keeping Solid Relationships - I Love Marketing Episode #224
 
-発行済み: 2015-10-16 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing224.mp3?dest-id=200948)
+発行済み: 2015-10-16 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing224.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、ベストセラー作家ニール・ストラウスと、インタビューと同じ日に発売された人間関係に関する彼の新しい本について話します。ストラウスは、深い没入とそれに続く大幅な編集という執筆プロセスを説明し、セックス依存症と親密さに関する長年の研究がどのようにして彼をより誠実な関係に導いたかを説明します。彼は、早期の予測から幻滅を経て、子供時代の満たされていないニーズに根ざした権力闘争へと移行し、人間関係がどのように衰退していくのかについてのモデルを概説しています。ジョーとニールはまた、個人的な欠陥ではなく痛みへの反応としての依存症について、セラピーと瞑想の価値について、そして判断を恐れながらも創造的な仕事に全力で取り組むことについても話し合います。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 長期的な関係は一般に、未解決の子供時代のパターンに根ざした投影、幻滅、権力闘争を経て進みます。
 - 依存症は、単純な性格の欠陥としてではなく、未解決の痛みや断絶に対する対処反応として理解されることがよくあります。
@@ -500,11 +500,11 @@ Joe Polish と Dean Jackson は、ベストセラー作家ニール・ストラ�
 
 ## 242. The Science of Human Actions, Reactions, and Interactions - I Love Marketing Episode #225
 
-発行済み: 2015-10-26 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing225.mp3?dest-id=200948)
+発行済み: 2015-10-26 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing225.mp3?dest-id=200948)
 
 Joe Polishは、認知的知性や感情的または社会的なスタイルとは異なる、彼女がコネーションと呼ぶ心の本能的な部分について研究者のキャシー・コルベ氏にインタビューします。コルベ氏は、人々が事実を収集し、リスクを負い、構造に従い、実践的なタスクを処理する方法を取り上げた、生まれながらの強みに関する 4 部構成のモデルを説明し、誰もが平等だが異なる先天的能力を持っていると主張します。彼女は、人々が自然な配線に反して働くと、不一致な環境、学校、職場、さらには医療がいかに不必要なストレスを生み出すかを説明します。コルベ氏は、教育、刑務所、人間関係の例を紹介し、自己認識と自分のやり方で働く自由がどのようにしてより良いキャリアと健全な人間関係につながるかを示しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 誰もが、知性、性格、感情スタイルとは異なる、コネーションと呼ばれる本能的で不変の行動パターンを持っています。
 - 学校、職場、医療などで、人々が本来持っている強みに反して働くことを強制すると、ストレスが生じ、燃え尽き症候群が生じ、悪い結果が生じます。
@@ -512,11 +512,11 @@ Joe Polishは、認知的知性や感情的または社会的なスタイルと�
 
 ## 243. How To Avoid Burnout And Maintain High Business Standards - I Love Marketing Episode #226
 
-発行済み: 2015-11-02 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing226.mp3?dest-id=200948)
+発行済み: 2015-11-02 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing226.mp3?dest-id=200948)
 
 Joe Polish は、レストラン経営者のマーク・ターベル氏に、20 年以上にわたるレストラン ビジネスの成功についてインタビューします。ターベルは食器洗い機からシェフ、そして最終的にはオーナーになるまでの軌跡をたどり、要求の厳しいホスピタリティ ビジネスの運営に関する教訓を共有します。彼は、ほとんどのレストランがなぜ失敗するのかというと、料理がまずいというよりも、非現実的な期待や不適切な計画によって失敗するのかを説明し、顧客に対する情熱、規律、真の奉仕精神を強調します。ターベル氏は、文化に適合するための採用、リーダーが従業員と親しくなること、一貫して基準を守ること、問題が発生した場合に全責任を負うことを避けるべき理由について語ります。最後に、燃え尽き症候群を防ぐことと、新しい起業家に自分の思い込みに挑戦してくれるメンターを見つけるようアドバイスすることについての考えを述べています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - レストランが失敗するのは通常、料理やサービスが悪いからではなく、非現実的な期待、弱い計画、貧弱なパートナーシップが原因です。
 - リーダーはスタッフと友好関係を保つべきですが、権力の不均衡により誠実な管理と説明責任が困難になるため、真の友情は避けるべきです。
@@ -524,11 +524,11 @@ Joe Polish は、レストラン経営者のマーク・ターベル氏に、20 
 
 ## 244. Review of the Genius Network Annual Event and a Joe Volunteer Update - I Love Marketing Episode #227
 
-発行済み: 2015-11-09 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing227.mp3?dest-id=200948)
+発行済み: 2015-11-09 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing227.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、不動産起業家で長年のリスナーであるチップ・フランクスをゲストに迎え、Genius Network の年次イベントを要約します。彼らは、訪問販売から始めて大手ブランドを築いた創業者など、イベントの講演者の話を振り返り、対面販売は本では学べないマーケティングの教訓を教えてくれると主張する。ジョーは、自分が成功できなかったのは業界ではなく自分自身の習慣のせいだと言われたという古い話をします。その教訓が彼を基礎の習得へと駆り立てました。話はジョー・ボランティアに移ります。ジョー・ボランティアは、老人ホーム訪問に関する以前のエピソードに触発されて、チップがボランティアと困っている人々や活動を結びつけるために構築したクラウドファンディング・プロジェクトです。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 直接、対面で販売する経験は、本を読んだり、セミナーに参加したりするだけでは得られない、マーケティングの直感と回復力を構築します。
 - ビジネスで苦戦している場合は、業界が悪いというよりも基礎的なスキルが弱いことを示していることが多いため、成功するには通常、分野を変える前に習慣を修正する必要があります。
@@ -536,11 +536,11 @@ Joe Polish と Dean Jackson は、不動産起業家で長年のリスナーで�
 
 ## 245. How To Apply The 8 Profit Activators To Grow Your Business - I Love Marketing Episode #228
 
-発行済み: 2015-11-16 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing228.mp3?dest-id=200948)
+発行済み: 2015-11-16 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing228.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson では、助けを必要とする非営利団体とボランティアをマッチングするアプリ、ジョー ボランティアの創設者であるチップ フランクスが司会を務め、8 つの利益活性化要因とビフォー デューリング アフター マーケティング フレームワークをまったく新しいビジネス アイデアに適用する方法を生放送で説明します。ディーンはチップに、中核となる取引を定義するよう指導し、立ち上げ対象を 1 つの都市、次に 1 つの視聴者層である高齢者介護組織に絞り込み、その後ボランティアの供給源として教会、学校、企業に範囲を広げます。彼らは、漠然としたアピールではなく、具体的で期限付きのボランティアのオファーをすることについて話し合い、プロジェクトのクラウドファンディングキャンペーンを宣伝し、リスナーに支援やボランティアとしての参加を呼びかけることで締めくくります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Uber や Airbnb のような巨大なプラットフォームでさえ 1 つの都市から始まったものであるため、規模を拡大する前に、大きなアイデアを 1 つの管理可能な市場に絞り込んでください。
 - あらゆるビジネスをその中核となる取引単位に分解し、その単位を大規模に繰り返し、拡大する方法を考え出します。
@@ -548,11 +548,11 @@ Joe Polish と Dean Jackson では、助けを必要とする非営利団体と�
 
 ## 246. The Unstoppable Power of Leaderless Organizations - I Love Marketing Episode #229
 
-発行済み: 2015-11-23 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing229.mp3?dest-id=200948)
+発行済み: 2015-11-23 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing229.mp3?dest-id=200948)
 
 Joe Polish は、『The Starfish and the Spider』の共著者であるロッド・ベクストロムに、組織を、1 人の支配的なリーダーが率いる集中型のクモのような構造、または本部がなくても機能し続ける分散型のヒトデのようなネットワークのいずれかとして捉える枠組みについてインタビューしています。ベクストロム氏は、インターネット プラットフォーム、オープンソース コミュニティ、軍隊、アルコホーリクス アノニマスが分散型の成功を収めている一方で、スティーブ ジョブズ率いる Apple が献身的なユーザー コミュニティを持つ強力な中央リーダーの上に構築されたハイブリッド企業であることを説明します。彼は、分散型ネットワークを開始するために必要な触媒の役割、制御と信頼の間のトレードオフ、すべてを解決しようとするのではなく定期的に従業員の声に耳を傾けるなどの単純な習慣について説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 組織は、集中型のクモのような制御と、分散型のヒトデのようなネットワークの間に位置しており、ほとんどの組織は両方のハイブリッドです。
 - アルコホーリクス・アノニマスやウィキペディアに見られるように、分散型組織は、カタリストが共通の価値観とシンプルなプロトコルを設定し、参加者がそれらに従って行動できるようにすることで繁栄します。
@@ -560,11 +560,11 @@ Joe Polish は、『The Starfish and the Spider』の共著者であるロッド
 
 ## 247. How To Use Livecasts For Education Based Marketing - I Love Marketing Episode #230
 
-発行済み: 2015-11-24 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing230.mp3?dest-id=200948)
+発行済み: 2015-11-24 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing230.mp3?dest-id=200948)
 
 Dean Jackson と Joe Polish は、ジョーが最近 Genius Network の年次イベント録画のパッケージを販売するために走ったライブキャストを分析し、その構造を段階的に説明します。ジョーは、オファーをする前に価値を構築するために、スピーカー クリップ、証言、ディーンとの率直な対話をどのように組み合わせたか、また、売り込みを隠すよりも教育でリードする方が効果がある理由を説明します。これらには、価格オプション、2 部構成の保証、真のカートクローズ期限の尊重、視聴者からの質問によるクローズなどが含まれます。このエピソードでは、ジョー ボランティア クラウドファンディング キャンペーンに関する最新情報をリスナーに提供し、寄付に対するインセンティブも提供します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - ライブキャストは、オファーが行われる前に価値を構築する証拠構築ビデオ クリップとライブ ダイアログを構造的に組み合わせたものとして最適に機能します。
 - オファー パッケージのコンテンツを戦略的な順序で選択すると、各部分が最後に基づいて構築され、他の部分が重要である理由を強調することができます。
@@ -572,11 +572,11 @@ Dean Jackson と Joe Polish は、ジョーが最近 Genius Network の年次イ
 
 ## 248. How To Create More Opportunities And Flow Through Generosity - I Love Marketing Episode #231
 
-発行済み: 2015-12-07 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing231.mp3?dest-id=200948)
+発行済み: 2015-12-07 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing231.mp3?dest-id=200948)
 
 Joe Polish は、衣料品ブランド「スピリチュアル ギャングスター」の創始者イアン・ロパティンにインタビューし、ストレスを抱えたエンターテイメント弁護士からヨガスタジオのオーナー、アパレル起業家に至るまでの道のりと、地に足を着ける日々の儀式について語ります。ロパティンは、ヨガがどのようにして自分を引き寄せたのか、寛大さが人の人生に循環する力であると考える理由、そして前向きな姿勢、瞑想、ボディワーク、一貫した動きがどのようにしてエネルギーを維持するのに役立つのかについて説明します。彼は、ハイキング、太極拳、ヨガ、マッサージという毎週の日課を共有し、調整が幸運な偶然を生み出すと主張し、圧倒されている人々に呼吸を変えて他人を助けることに集中するようアドバイスしています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 運動、瞑想、ボディワークなどの毎日の習慣を一貫して行うことで、エネルギーを保護し、長期的な燃え尽き症候群を防ぐことができます。
 - 徹底的な寛大さを実践し、快適と感じる以上のものを与えると、時間の経過とともにより大きな豊かさと機会が開かれる傾向があります。
@@ -584,11 +584,11 @@ Joe Polish は、衣料品ブランド「スピリチュアル ギャングス�
 
 ## 249. How To Build Your Business Big And Bold To Grow 10X - With Peter Diamandis - I Love Marketing With Joe Polish And Dean Jackson Episode #232
 
-発行済み: 2015-12-14 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing232_1.mp3?dest-id=200948)
+発行済み: 2015-12-14 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing232_1.mp3?dest-id=200948)
 
 このエピソードは、Genius Network イベントで Joe Polish によって紹介された、XPRIZE 財団の創設者でありシンギュラリティ大学の共同創設者であるピーター ディアマンディスによる講演の録音を特集しています。ディアマンディス氏は、人間の脳はローカルかつ直線的に考えるように進化した一方で、現代世界は指数関数的に変化し、インスタグラムの台頭と並んでコダックの崩壊が例証されているように、既存の企業は突然の混乱にさらされていると主張する。同氏は、ロボット工学、自動運転車、3次元印刷などを例に挙げ、初期の欺瞞的な成長から、最終的に広く安価に利用できるようになるまで、デジタル化テクノロジーが通過する段階を概説します。次に、ゲーム化されたチャレンジ、フリーランス労働者、クラウドソーシング コンテスト、データ マイニング コンテスト、クラウドファンディングなど、外部の人材を安価に活用するためのツールについても取り上げます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 直線的な考え方に囚われている企業は、コダックが安価なデジタルカメラに取って代わられたように、指数関数的に進歩するテクノロジーによって盲目になってしまうリスクがあります。
 - 新しいデジタル化テクノロジーは通常、初期の欺瞞的な成長から破壊、コストの低下、誰もが利用できるようになるまでの段階を経ていきます。
@@ -596,11 +596,11 @@ Joe Polish は、衣料品ブランド「スピリチュアル ギャングス�
 
 ## 250. The Entrepreneurial Blueprint With Verne Harnish - I Love Marketing With Joe Polish And Dean Jackson Episode #233
 
-発行済み: 2015-12-21 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing233.mp3?dest-id=200948)
+発行済み: 2015-12-21 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing233.mp3?dest-id=200948)
 
 Joe Polish は、Entrepreneurs Organization の創設者であり、『Scaling Up』の著者である Verne Harnish に、成功する起業家と失速する起業家を分けるものについてインタビューします。ハーニッシュ氏は、長期的な成功を素早い行動と組み合わせた読書と学習の毎日の習慣と結びつけ、すべての成長企業が管理しなければならない 4 つの意思決定領域、人材、戦略、実行、資金について概説します。彼は、1 ページの戦略計画や委任に対する職務責任表などのツールについて説明し、一生懸命働くことよりも制約を取り除くことが重要である理由を説明します。会話では、歴史的なビジネス上の決定、クラウドファンディング、そしてハーニッシュが毎週行っている会議、教育、執筆、慈善活動などのテーマに沿った日についても触れられています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 最速でスケールアップする起業家は、読書と学習を毎日熱心に行う習慣と、学んだことに基づいてすぐに行動する習慣を共有しています。
 - 成長する企業は、人材、戦略、実行、資金の 4 つの領域に基づいて成功するか失速するかが決まり、それぞれを管理するための特定のツールが存在します。
@@ -608,11 +608,11 @@ Joe Polish は、Entrepreneurs Organization の創設者であり、『Scaling U
 
 ## 251. What It Really Takes To Reach The Top And Stay There - With Daymond John - I Love Marketing With Joe Polish And Dean Jackson Episode #234
 
-発行済み: 2015-12-28 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing234.mp3?dest-id=200948)
+発行済み: 2015-12-28 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing234.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、FUBU の創設者でシャーク タンクの投資家でもあるデイモンド ジョンに、著書『The Power of Broke』についてインタビューします。デイモンド氏は、お金がない状態から始めると創造性、規律、顧客との真のつながりが求められる一方、十分なお金があれば弱気な思考が隠れ、高くつく間違いにつながる可能性がある理由を説明します。彼は、FUBU が拡大する前にクイーンズの地元でシャツを販売することからどのように成長したか、情熱、リソース、概念実証に基づいて機会を評価する公式、そして彼の強みに合わないファッション レーベルの買収から得た高価な教訓について説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 規模を拡大する前に、小規模で手頃な価格の地元市場で牽引力を築くことで、お金だけでは買えない本物の需要が生まれます。
 - リソースを投入する前に、その人の回復力、アイデアの拡張性、実際の概念実証をチェックして機会を評価します。
@@ -620,11 +620,11 @@ Joe Polish と Dean Jackson は、FUBU の創設者でシャーク タンクの�
 
 ## 252. How You Can Gain Leverage Just Like Industry Leaders And Hyper-Successful Entrepreneurs - With Mike Koenigs - I Love Marketing With Joe Polish And Dean Jackson Episode #235
 
-発行済み: 2016-01-04 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing235.mp3?dest-id=200948)
+発行済み: 2016-01-04 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing235.mp3?dest-id=200948)
 
 このエピソードは、Joe Polish の Genius Network イベントで行われた、マーケティング ストラテジストで著者の Mike Koenigs によるプレゼンテーションを録画したものです。マイクは、ビームと呼ばれる大胆なビジョンと支点と呼ばれるそれを動かす方法の組み合わせである、個人的な大きなレバーのアイデアを紹介します。重篤な癌の診断から回復した彼は、瞑想によって自分を本当に駆り立てているものがどのように明確になったかを語ります。彼は、尊敬する支持者からの信頼を借りて大胆なアイデアを売り込むことについてピーター・ディアマンディスとのインタビューを共有し、神聖な不満の個人的な感覚を特定することが、起業家自身の大きな影響力を明らかにし、信奉者を引き付ける説得力のあるビジョンを促進する方法を説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 大きなレバーは、大胆なビジョンであるビームと、それを動かすための特定の方法である支点を組み合わせています。
 - 信頼できる尊敬される支持者と一緒にアイデアを提示すると、それを真剣に受け止めるリスナーの閾値を超える可能性があります。
@@ -632,11 +632,11 @@ Joe Polish と Dean Jackson は、FUBU の創設者でシャーク タンクの�
 
 ## 253. Expert Tips on How To Present Confidently To Any Size Audience - I Love Marketing With Joe Polish And Dean Jackson Episode #236
 
-発行済み: 2016-01-11 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing236.mp3?dest-id=200948)
+発行済み: 2016-01-11 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing236.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、パフォーマンスコーチのビクトリア・ラボンテとともに新年の幕開けを迎えます。ビクトリア・ラボンテは、経営幹部や起業家があらゆる聴衆の前で自信を持ってプレゼンテーションできるよう訓練します。彼女は、本物のつながりよりも自信が重要であり、自分のことを心配するのではなくリスナーに奉仕することに集中することでステージ恐怖症がなくなると説明します。ヴィクトリアは、個人的なスルー ライン、あらゆるやり取りの背後にある原動力となる意図、そして目立つための癖や個人的な興味を受け入れるプリズム効果を紹介します。彼女はまた、スライドの代わりに手書きのインデックスカードを使って話を準備し、性格、苦境、解決策を中心にストーリーを構成し、会議の最初と最後の瞬間を力強く形作ることについても説明しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 聴衆との真のつながりは自信よりも重要であり、リスナーに奉仕することに外側に集中することで恐怖が軽減されます。
 - すべてのやり取りの背後にある中心的な意図である個人的なスルー ラインは、コミュニケーションに一貫性と信頼性をもたらします。
@@ -644,11 +644,11 @@ Joe Polish と Dean Jackson は、パフォーマンスコーチのビクトリ�
 
 ## 254. Dean Jackson's Email Marketing Strategy and His Seven Marketing Mindsets - I Love Marketing Episode #237
 
-発行済み: 2016-01-18 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing237.mp3?dest-id=200948)
+発行済み: 2016-01-18 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing237.mp3?dest-id=200948)
 
 このエピソードではゲストなしで、Dean Jackson が電子メール マーケティング アプローチの背後にある 7 つの指針となる考え方を共有します。彼は、クライアントが望む明確な結果を提供することによって、終わりを念頭に置いて開始し、説得力のある関心、信念の構築、解決策に向けた協力という段階を通じて常に見込み客を次のステップに導くことについて説明しています。彼は、リストに載っている全員ではなく、反応が良い 5 つ星の見込み客にエネルギーを集中すること、恐怖ではなく望ましい利点にメッセージを集中させること、電子メールを 1 対 1 の会話として書くこと、単に質問するだけで新しいオファーをテストすること、そして最後に、本当に個人的な返信のみに人間の手が必要となるように、繰り返し可能なコミュニケーションを最適化、自動化、委任することについて説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - リストの構築を長期的な投資として扱い、聴衆全体ではなく、反応の良い 5 つ星の見込み客にコミュニケーションを集中させます。
 - すぐに販売を迫るのではなく、まず興味を抱かせ、次に確信を築くことで、見込み顧客を段階的にコラボレーションへと導きます。
@@ -656,11 +656,11 @@ Joe Polish と Dean Jackson は、パフォーマンスコーチのビクトリ�
 
 ## 255. No Grain, No Pain with Dr. Peter Osborne - I Love Marketing Episode #238
 
-発行済み: 2016-01-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing238.mp3?dest-id=200948)
+発行済み: 2016-01-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing238.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、機能性医学の実践者であり、書籍『No Grain, No Pain』の著者であるピーター・オズボーン博士から新年を迎えます。ピーターは、グルテンやその他の穀物タンパク質がどのように慢性炎症、関節痛、皮膚疾患、自己免疫疾患を引き起こす可能性があるのか​​、そしてなぜ米やトウモロコシから作られたグルテンフリー代替品が依然として害を引き起こす可能性があるのか​​を説明します。彼はリーキーガットとブレインフォグについて説明し、ほとんどの医師が栄養指導をほとんど受けていないことを指摘し、プラスチックから化学物質が溶け出すためボトル入り飲料水には警告を発している。ピーターはまた、遺伝子検査、穀物を含まない食事への移行、外食や旅行中の適切な食事についてのガイダンスも提供しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 米やトウモロコシに含まれる小麦以外の穀物タンパク質は、グルテンフリーとされる製品であっても慢性炎症や自己免疫症状を引き起こす可能性があります。
 - 持続的な関節痛、皮膚の問題、頭の霧、疲労は、単なる老化ではなく、食物過敏症が原因である可能性があります。
@@ -668,11 +668,11 @@ Joe Polish と Dean Jackson は、機能性医学の実践者であり、書籍�
 
 ## 256. The Freedom of Failure with Joe Sugarman - I Love Marketing Episode #239
 
-発行済み: 2016-02-01 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing239_1.mp3?dest-id=200948)
+発行済み: 2016-02-01 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing239_1.mp3?dest-id=200948)
 
 このエピソードでは、フリーダイヤルでの注文を普及させ、何百万ものブルー ブロッカー サングラスを販売したことで知られる、ダイレクト マーケティングのパイオニア、ジョー シュガーマン氏の短い講演を特集します。ジョーは人生の失敗を振り返り、一度の挫折よりも立ち直る力と自分を信じることが大切だと主張し、対戦相手が後に妹と結婚することで終わった校庭での喧嘩についての個人的な話を共有する。彼は、自分のビジネスの成功は、単に販売するのではなく、顧客を教育し、真の価値を提供したことにあると考えています。彼は、現在宣伝している新しいアンチエイジング スキンケア、エネルギー、育毛製品について説明して締めくくっていますが、74 歳になった今でも元気で健康です。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 長期的な成功は、一度の幸運ではなく、繰り返しの失敗と強い自己信念と粘り強さによってもたらされることがよくあります。
 - サングラスの紫外線防御と同様に、真の利点について顧客に教育することで、永続的なビジネスの成功を築くことができます。
@@ -680,11 +680,11 @@ Joe Polish と Dean Jackson は、機能性医学の実践者であり、書籍�
 
 ## 257. The 4-Step Book In A Box Process: How To Turn Your Knowledge Into A Professionally Published Book In Just 15 Hours - I Love Marketing Episode #240
 
-発行済み: 2016-02-08 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing240.mp3?dest-id=200948)
+発行済み: 2016-02-08 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing240.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、Book in a Box の創設者である Tucker Max に、アイデアを約 15 時間で書籍として出版することについてインタビューします。タッカーは、失敗した法律家としてのキャリアから、オンラインで話題になったストーリーテリングやベストセラーのユーモア本に至るまでの軌跡をたどり、自分自身ではなく読者のために書くことについて学んだことを説明します。彼はセラピーと瞑想を通じて初期の傲慢さを克服したことを説明し、エゴに基づいて構築された個人ブランドと聴衆に奉仕することに基づいて構築されたブランドを区別します。講演では、彼の本のプロセス、ポジショニング、構造化されたインタビュー、プロの編集について概要を説明し、彼のプレミアム サービスをディーンのより速い 90 分本のオプションと比較し、ベストセラー リストがどのように作られるかについて触れます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 本は、著者自身の物語ではなく、読者が得るものを中心に置いたときに、ビジネスツールとして最も効果的に機能します。
 - 持続的な成功とより良い意思決定を可能にするためには、他人を責めるのではなく、自分の失敗に正直に向き合うことが多くの場合必要です。
@@ -692,11 +692,11 @@ Joe Polish と Dean Jackson は、Book in a Box の創設者である Tucker Max
 
 ## 258. How To Get Prospects And Clients To Care More While Reducing Refund Rates With Powerful Guarantees - I Love Marketing Episode #241
 
-発行済み: 2016-02-15 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing241.mp3?dest-id=200948)
+発行済み: 2016-02-15 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing241.mp3?dest-id=200948)
 
 このエピソードでは、Joe Polish イベントで収録されたトレーニング プログラム B-School の創設者、マリー フォルレオ氏の講演を特集します。彼女は、販売予防と呼んでいる概念について説明します。これは、適合性の低い顧客を積極的に阻止し、残酷なまでに正直であり続けることで、信頼を築き、収益を拡大するというものです。マリーさんは、プログラムが自分に合わなかったという理由でテレセミナーの電話を断ったことや、購入者がコースワークを完了した場合にのみ返金を受けられるように返金保証を再設計したことについて説明しています。これらの変更により、返金率が 19 パーセントから 1.5 パーセントに低下すると同時に、登録者数と収益が大幅に増加しました。彼女は、このアプローチが生徒間の信頼を強化したと信じています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 合わない顧客を率直かつ正直に断ったほうが、常に「はい」を押し続けるよりも、より多くの信頼と売上を築くことができます。
 - 無条件で返金するのではなく、完了した取り組みに返金保証を結び付けることで、コミットメントのない購入者が除外され、返金率が低くなります。
@@ -704,11 +704,11 @@ Joe Polish と Dean Jackson は、Book in a Box の創設者である Tucker Max
 
 ## 259. Becoming Irreplaceable - I Love Marketing Episode #242
 
-発行済み: 2016-02-22 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing242.mp3?dest-id=200948)
+発行済み: 2016-02-22 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing242.mp3?dest-id=200948)
 
 Joe Polish は、生産性の著者である Dave Crenshaw に、著書『The Myth of Multitasking』と『Invaluable』についてインタビューします。 Dave 氏は、マルチタスクはタスク間の切り替えが非常に速いため、時間を無駄にし、ストレスを増大させ、間違いを引き起こし、無視されていると感じて人間関係を損なう一方、無思慮な活動を行う真のバックグラウンド タスクは効率を維持できると説明します。彼は、テクノロジー自体が問題ではなく、不注意な使用だけが問題であり、意志の力だけではなく条件付けと外部の責任を通じて集中力が向上すると主張しています。続いて講演では、彼の 2 冊目の著書について取り上げ、従業員やビジネスを真に価値のあるものにする 6 つの要素について説明し、最も価値のある活動をいくつか特定し、他の人に教えることで永続的な価値を築くことができると強調しました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - マルチタスクとは実際にはタスク間を素早く切り替えることであり、各切り替えは労力を節約するのではなく、隠れた時間、ストレス、間違いを追加します。
 - 本当に価値のある人になるには、すべてに忙しくし続けることではなく、自分にとって最も価値のあるいくつかの活動を特定し、それにはるかに多くの時間を費やすことが必要です。
@@ -716,11 +716,11 @@ Joe Polish は、生産性の著者である Dave Crenshaw に、著書『The My
 
 ## 260. The 2 Most Important Character Traits To Build Confidence As An Entrepreneur - I Love Marketing Episode #243
 
-発行済み: 2016-02-29 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing243.mp3?dest-id=200948)
+発行済み: 2016-02-29 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing243.mp3?dest-id=200948)
 
 Dean Graziosi が起業家としての自信の醸成について長年の友人 Joe Polish にインタビューします。ジョーは、恐怖にもかかわらず行動を繰り返すことで自信が育つと説明し、最初に勇気があり、次に献身、能力、そして最後に自信が来るというダン・サリバンの考えを反映しています。彼は、最悪の場合の結果と他人への奉仕に焦点を当て、大観衆の前で舞台恐怖症になったディーンを指導することなど、個人的な話を共有し、弱点を直すのではなく、生まれ持った強みを倍増させることで、永続的な自己信念がどのように構築されるかを説明します。その他のテーマには、直感を信頼すること、自分を自分の親友のように扱うこと、過去の痛みを手放すこと、ボランティア活動や人間関係を利用して自己疑念や憂鬱な気分から逃れることなどが含まれます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 自信は、ポジティブ思考や意志の力だけでではなく、時間をかけて不快な行動を繰り返すことで築かれます。
 - 弱点を直すのではなく、本来の強みにエネルギーを集中させることで、より本物の自信が生まれ、より良い結果が得られます。
@@ -728,11 +728,11 @@ Dean Graziosi が起業家としての自信の醸成について長年の友人
 
 ## 261. Jay Abraham on Thinking Differently - I Love Marketing Episode #244
 
-発行済み: 2016-03-07 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing244.mp3?dest-id=200948)
+発行済み: 2016-03-07 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing244.mp3?dest-id=200948)
 
 このエピソードでは、Joe Polish で紹介された、マーケティング コンサルタントのジェイ エイブラハムによる、ビジネスにおける異なる考え方についてのテンポの良い講演が特徴です。ジェイは、本当に無能な人は自分の無能を認識できず、そのため自信を持って間違った意思決定をしてしまうという研究結果から始めます。ビジネスも命と同じように、安易な思い込みではなく、常に誠実な再検討が必要だと彼は主張します。講演は、農機具の融資、ラジオや看板の広告、電気シェーバー、経営不振企業の買収など、彼自身のさまざまな初期のキャリアの話を通して急速に進み、それぞれが他の人が見逃していた視点を明らかにします。彼は、現状を拒否し、状況を違った見方で見る人々を称賛し、彼らが業界と世界を変えると主張して締めくくりました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 真の能力に欠けている人は、自分自身の判断力の弱さを認識できないことが多く、そのため、自信はあっても不適切な決定を下してしまいます。
 - さまざまな業界や型破りな状況に触れることで、専門家が見落としている機会を見つける能力が高まります。
@@ -740,11 +740,11 @@ Dean Graziosi が起業家としての自信の醸成について長年の友人
 
 ## 262. The 3 C's Of The Perfect Day Formula With Craig Ballantyne - I Love Marketing Episode #245
 
-発行済み: 2016-03-14 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing245.mp3?dest-id=200948)
+発行済み: 2016-03-14 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing245.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、フィットネスの専門家であり作家であるクレイグ・バランタインに、著書『The Perfect Day Formula』についてインタビューします。クレイグ氏は、6 か月間にわたる深刻な不安発作の後にこのシステムをどのように開発したかを説明し、ストア派の哲学者エピクテトスにインスピレーションを得た 3 部構成について説明します。朝は個人ルールでコントロールし、午後は 5 つの柱で対処し、夜は明確な長期ビジョンに集中するというものです。彼は、1 日の経過とともに消耗する意志力と、決断疲れを取り除く固定ルールを対比させ、計画、説明責任、社会的サポート、有意義なインセンティブ、期限という 5 つの柱を挙げています。この講演では、個人のビジョンの構築とメンターの価値についても取り上げます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 日が経つにつれて弱まる意志の力に頼るよりも、事前に決めた固定の個人ルールの方が効果的です。
 - 午前中にコントロール、午後に対処、夕方に振り返りを中心に 1 日を構成すると、燃え尽き症候群にならずに一貫性が高まります。
@@ -752,11 +752,11 @@ Joe Polish と Dean Jackson は、フィットネスの専門家であり作家�
 
 ## 263. The School of Greatness featuring Joe Polish - I Love Marketing Episode #246
 
-発行済み: 2016-03-21 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing246.mp3?dest-id=200948)
+発行済み: 2016-03-21 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing246.mp3?dest-id=200948)
 
 このボーナス エピソードは、ポッドキャスト ホストのルイス ハウズが自身の番組のために Joe Polish と録音したインタビューを再現します。ジョーは、マーケティングと販売の違いについて説明し、マーケティングとは、販売上の会話が始まる前に人々をすでに信頼し、購入したいと思わせる位置に置くことであると説明しています。彼は、無料の消費者ガイド テンプレートや録音された電話メッセージなど、カーペット クリーニング業界で教育ベースのマーケティングを活用し、価格で競争することなく見込み客を劇的に増加させた自身の歴史をたどります。彼は説得力のある文章に関する 2 冊の本を勧め、最後に感謝の気持ち、他人に与えること、そして他人をうまく助けることができるように自分自身を尊重し気遣うことが真の偉大さであると述べて締めくくっています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - マーケティングとは、販売会話が始まる前に、人々がすでに信頼し、あなたのオファーを望んでいるように配置することを意味します。これにより、販売がはるかに簡単になります。
 - 暗黙の質問に答えるガイドや録音メッセージを通じて、見込み顧客を事前に教育することは、価格で競争するよりも信頼を構築します。
@@ -764,11 +764,11 @@ Joe Polish と Dean Jackson は、フィットネスの専門家であり作家�
 
 ## 264. Why Podcasting Is More Important Now Than Ever Before - I Love Marketing Episode #247
 
-発行済み: 2016-03-28 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing247.mp3?dest-id=200948)
+発行済み: 2016-03-28 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing247.mp3?dest-id=200948)
 
 このエピソードは、ポッドキャスト戦略の著者であるポッドキャスティングの専門家、ポール・コリガンによるライブ トークを特集しており、彼自身の番組のエピソードとして Joe Polish イベントで記録されました。ポールは、無料エピソードがベストセラーのオーディオブックにつながり、本が生まれる前にオプラとのタイアップにつながった文法ポッドキャスターを例に挙げて、ポッドキャスティングは現在、視聴者にリーチするための強力で安価な方法であると主張する。同氏は、ポッドキャストはトルクメニスタンのような検閲の国でもリスナーに届いていると指摘し、需要の証拠としてアップルがポッドキャスト購読者数10億人を突破したことを挙げている。同氏は、コネクテッド デバイスがまもなくエピソードをリスナーに直接プッシュするようになるだろうと予測し、先行者利益を得るために無料ツールを使って今すぐポッドキャストを開始するよう勧めています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - ポッドキャスティングは、インターネット アクセスが厳しく検閲されている国であっても、世界中の熱心な視聴者にリーチできます。
 - 無料のエピソードは、あるポッドキャスターに真の権威を築き上げ、ベストセラーのオーディオブックにつながり、彼女の本が出版される前から主要メディアの注目を集めました。
@@ -776,11 +776,11 @@ Joe Polish と Dean Jackson は、フィットネスの専門家であり作家�
 
 ## 265. How To Build Your Reputation Quicker By Being an Authentic, Value-Creating Marketer - I Love Marketing Episode #248
 
-発行済み: 2016-04-04 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing248.mp3?dest-id=200948)
+発行済み: 2016-04-04 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing248.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、Quest Nutrition の共同創設者である Tom Bilyeu と、利益を追求するのではなく代謝性疾患の撲滅を中心とした食品会社の構築について話します。 Bilyeu 氏は、儲かるが満足のいくテクノロジー ビジネスを辞め、自分自身の健康を変革し、美味しく、健康をサポートし、手頃な価格を維持する製品に取り組むパートナーと Quest を設立したことについて説明します。彼は、本物の感情主導のブランディングが機能重視の販売にどのように勝るか、知識を惜しみなく共有することが信頼とコミュニティを築く理由、規律ある日々の集中と電子メールの中断の拒否によって急成長する企業がその使命と長期的なパートナーシップの約束をどのように維持できるかを説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 純粋な利益ではなく、個人的で意味のある使命を中心にビジネスを構築すると、より多くのエネルギー、集中力、そして長期的な成長が生まれます。
 - マーケティングは、特徴やメリット、作られた優越感を列挙するのではなく、本物の感情や変革を呼び起こすときに最も効果を発揮します。
@@ -788,11 +788,11 @@ Joe Polish と Dean Jackson は、Quest Nutrition の共同創設者である To
 
 ## 266. How To Use The Vasper Machine So You Can Experience Optimal Health And Superior Function - I Love Marketing Episode #249
 
-発行済み: 2016-04-11 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing249.mp3?dest-id=200948)
+発行済み: 2016-04-11 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing249.mp3?dest-id=200948)
 
 Joe Polish は、約 20 分で激しいトレーニングを模倣する加圧冷却エクササイズ デバイスである Vasper の創設者である Peter Wasowski にインタビューします。ワソウスキー博士は、短距離走中に冷却され圧縮された手足がどのようにして乳酸を集中させ、筋肉組織を破壊することなく成長ホルモンを放出するよう下垂体に信号を送る一方、冷却によって血中酸素が増加し、回復が容易になることを説明しています。彼は、海軍特殊部隊、宇宙飛行士、プロスポーツ選手、高齢者によって報告された、睡眠、体力、ホルモンバランスの改善、回復の促進などの利点について説明し、ホルモンバランスを精神的な健康、さらには依存症の回復に結びつけます。ジョーは会話全体を通してライブセッションを試みます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Vasper は冷却と圧迫をショートスプリントと組み合わせて乳酸を濃縮し、自然な成長ホルモンの放出を誘発し、約 20 分で激しいトレーニングの効果をもたらします。
 - ユーザーは、睡眠の質の向上、回復の促進、体力の増加を報告しており、高齢患者から海軍特殊部隊や宇宙飛行士に至るまでのグループに恩恵をもたらしています。
@@ -800,11 +800,11 @@ Joe Polish は、約 20 分で激しいトレーニングを模倣する加圧�
 
 ## 267. How To Stay Peaceful, Positive And Productive In The Face Of Negative Feelings - I Love Marketing Episode #250
 
-発行済み: 2016-04-18 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing250.mp3?dest-id=200948)
+発行済み: 2016-04-18 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing250.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、創造性、満足感、感情的な回復力について、創造性の高い人の特徴に関するバイラル記事で知られる作家兼コーチのケビン カイザーと対談します。カイザー氏は、読者調査を利用して記事の共有性を意図的に設計した方法を説明し、創造性は稀有な才能ではなく、遊び心のある好奇心とアイデアをつなぐものであると説明します。彼は、制限的な信念を忘れる方法を学ぶこと、野心と現在の満足感のバランスをとること、そしてうつ病を乗り越えるのに役立った瞑想、孤独、正直な会話などの実践について語ります。カイザーはまた、執筆に関するアドバイスやニッチなクリエイターからの視聴者構築の教訓を共有し、創造性と脆弱性に関する数冊の本を推奨しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 創造性とは、稀有な才能というよりは、遊び心のある好奇心、アイデアを結び付けること、そして制限的な古い習慣を喜んで取り除くことです。
 - 忠実な視聴者を構築するには、近道を追い求めたり、他の人の真似をしたりするのではなく、本当に興味のあるコンテンツを作成することが最も効果的です。
@@ -812,11 +812,11 @@ Joe Polish と Dean Jackson は、創造性、満足感、感情的な回復力�
 
 ## 268. Developing a Marketing Mindset To Become More Valuable, Persuasive And Successful - I Love Marketing Episode #251
 
-発行済み: 2016-04-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing251_1.mp3?dest-id=200948)
+発行済み: 2016-04-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing251_1.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson はイエロー ページ ルーレットの演習を実行し、物理的な電話帳からランダムなカテゴリ (フェンス会社) を選択して、どの業界でも機能するマーケティング原則を実証します。彼らは、価値の高いターゲット市場を 1 つに絞り込むことがすべての人にサービスを提供することよりも優れている理由、および無料のガイドやレポートを提供することで匿名のブラウザーがどのように育成する価値のある特定のリードに変わるのかを説明しています。彼らは、多くの企業にとって、紙媒体の広告とダイレクトレスポンスは依然として過密なデジタルチャネルよりも優れたパフォーマンスを発揮していると主張し、企業が余分な広告費をかけずに見込み客を増やすことができるように、競合しないローカルサービスを1つのニュースレターやディレクトリにバンドルするなど、相互紹介パートナーシップに関するアイデアを共有している。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 特定の価値の高いターゲット市場を 1 つ選び、そのニーズに直接話しかけることは、考えられるすべての顧客にアピールしようとするよりもはるかに効果的です。
 - 無料のガイド、レポート、または価格表を提供すると、匿名の見込み顧客が、企業が時間をかけて追跡できる特定の潜在顧客に変わります。
@@ -824,11 +824,11 @@ Joe Polish と Dean Jackson はイエロー ページ ルーレットの演習�
 
 ## 269. How Technology Affects Your Business In The New Digital Age - I Love Marketing Episode #252
 
-発行済み: 2016-05-02 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing252.mp3?dest-id=200948)
+発行済み: 2016-05-02 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing252.mp3?dest-id=200948)
 
 このエピソードでは、Joe Polish で紹介された、Google Ideas の創設者であり、『The New Digital Age』の共著者である Jared Cohen による講演を特集します。コーエン氏は、インターネットとモバイルの成長に関する生の統計は、不安定な場所や抑圧的な場所にいる人々にとって接続が何を意味するかを理解していなければほとんど意味がないと主張する。彼は、イラン、北朝鮮、リビア、チュニジア、ケニア、ビルマ、メキシコ、パキスタンの話を共有し、極限状況下でモバイルテクノロジーがどのようにコミュニケーション、安全、収入、さらには人生の二度目のチャンスを可能にするかを示しています。コーエン氏は、10年以内にさらに50億人がオンラインに接続するようになると予測し、そのほとんどが不安定な地域で、親にはオンラインプライバシーについて子供たちと早めに話し合うこと、企業には世界中の機知に富んだユーザーから学ぶことをアドバイスしている。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - インターネットとモバイルの成長に関する統計は、不安定な場所や抑圧的な場所に住む人々にとって接続が実際に何を意味するかを理解することよりも重要です。
 - 困難な環境に置かれた人々は、多くの場合、先進国での使用方法に先駆けて、基本テクノロジーの驚くべきリソースに富んだ使用法を発明します。
@@ -836,11 +836,11 @@ Joe Polish と Dean Jackson はイエロー ページ ルーレットの演習�
 
 ## 270. The biggest and boldest initiatives Tony Robbins and Peter Diamandis are working on - I Love Marketing Episode #253
 
-発行済み: 2016-05-04 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/253ILoveMarketing_GNTonyRobbins3.mp3?dest-id=200948)
+発行済み: 2016-05-04 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/253ILoveMarketing_GNTonyRobbins3.mp3?dest-id=200948)
 
 Genius Network イベントで録画されたJoe Polish は、トニー ロビンスとピーター ディアマンディスに、最大のプロジェクトと並外れた結果を達成するための考え方についてインタビューしました。ロビンズ氏は何千万人もの人々に食事を提供する慈善活動について説明し、ディアマンディス氏は教育、小惑星採掘、作物マッピング、Human Longevity を通じたゲノム解読における XPRIZE の取り組みについて概説します。どちらも、なぜ野心的な仕事を犠牲ではなく使命とみなすことがエネルギーを維持するのか、なぜ不可能は事実ではなく考え方であるのか、そしてなぜ10倍大きく考えることが再発明を促すのかを説明しています。また、批判や失敗をどのように処理するかについても説明し、最高のパフォーマンスを発揮するための朝の習慣（寒さへの曝露や感謝の習慣など）を共有しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 厳しい仕事を犠牲ではなく使命として扱うと、エネルギーが持続し、何かを放棄したという感情から来る憤りを避けることができます。
 - 何かを不可能と呼ぶのは事実ではなく考え方であり、10% 改善するのではなく 10 倍を目標にすることで、真の再発明が促されます。
@@ -848,11 +848,11 @@ Genius Network イベントで録画されたJoe Polish は、トニー ロビ�
 
 ## 271. The Code of The Extraordinary Mind - I Love Marketing Episode #254
 
-発行済み: 2016-05-08 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing254.mp3?dest-id=200948)
+発行済み: 2016-05-08 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing254.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、マインドバレーの創設者であるヴィシェン・ラキアーニと彼の著書『The Code of the Extraordinary Mind』について話します。ラキアーニ氏は、人々は真の欲望ではなく、受け継がれた文化的ルールを追い求めることが多いと説明し、手段ベースの目標を経験、成長、貢献を中心とした最終目標に置き換えることを推奨しています。彼は、個人の信念や日常システムを調べて改善する実践である意識工学を紹介し、測定可能なベンチマークを使用して進歩を追跡することについて説明します。彼はまた、失敗を痛みを伴う学習または洞察力のある学習として再構成すること、感情的に揺るぎない姿勢を保つこと、そしてマレーシアを拠点とする世界的な人材を惹きつける企業文化を構築することについても語ります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 継承された文化的ルールと手段の目標を、経験、成長、貢献を中心とした真の最終目標に置き換えます。
 - 意識工学を使用して時代遅れの信念や日常システムを特定し、それらを意図的にアップグレードします。
@@ -860,11 +860,11 @@ Joe Polish と Dean Jackson は、マインドバレーの創設者であるヴ�
 
 ## 272. Effective Visual Communication To Increase Conversions - I Love Marketing Episode #255
 
-発行済み: 2016-05-16 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing255.mp3?dest-id=200948)
+発行済み: 2016-05-16 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing255.mp3?dest-id=200948)
 
 Joe Polish は、マーケティング用のホワイトボード アニメーション ビデオを制作する会社、The Draw Shop の共同創設者である Eric Kerr にインタビューします。カー氏は、シンプルな手描きのホワイトボードビデオがトーキングヘッドビデオよりも優れている理由を説明し、脳が単純化された画像をより簡単に処理するため、視聴者がはるかに多くの記憶を保持することを示す研究を引用しています。彼らは、ビデオを改善する価値のあるテスト可能なコントロールとして扱うことについて話し合い、金融、出会い系サービス、テクノロジー、非営利団体のクライアントの例を共有します。カー氏は、動画ごとに 1 つの明確なメッセージ、視聴者の深い理解、カスタマー ジャーニー全体で短い動画を使用することを強調します。彼はまた、家族の健康不安に触発された、依存症再発の警告兆候を早期に検出することを目的とした新しい賞プロジェクトについても説明しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 短くシンプルに描かれたホワイトボードビデオは、脳の情報処理方法と一致しているため、トーキングヘッドビデオよりもはるかに記憶に残ります。
 - マーケティングビデオを、一度限りの資産ではなく、継続的にテストして改善する価値のあるコントロールとして扱います。
@@ -872,11 +872,11 @@ Joe Polish は、マーケティング用のホワイトボード アニメー�
 
 ## 273. The Art and Science of Reinventing Your Career and Life - I Love Marketing Episode #256
 
-発行済み: 2016-05-23 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing256.mp3?dest-id=200948)
+発行済み: 2016-05-23 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing256.mp3?dest-id=200948)
 
 Joe Polish は、元弁護士で現在は自己啓発会社ニュー・ピークスを率いるアダム・マーケルに、彼の著書「ピボット、キャリアと人生を再発明する芸術と科学」についてインタビューします。マーケルは、法律を離れることを余儀なくされた健康上の恐怖について説明し、なぜ恐怖と未検証の信念が人々を現状維持の生活に閉じ込めるのかを説明します。同氏は、永続的な変化は一度の劇的な飛躍ではなく、小さな変化の繰り返しから生まれると主張し、朝の感謝の儀式、受け継がれてきた信念への疑問、信頼できる仲間グループからの正直なフィードバックを求めること、販売を思いやりのある教育的な行為として扱うことなどの実践を概説している。この講演では、一貫性の構築、早い失敗の受け入れ、お金を超えた目的の定義についても取り上げます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 人生の大きな変化は、通常、一度の劇的な飛躍ではなく、小さな方向転換の繰り返しから起こるため、管理可能な 1 つの変化から始めましょう。
 - 古いパターンを学ぶことは、新しいパターンを学ぶことと同じくらい重要であるため、継承された信念や習慣を定期的に調べて更新してください。
@@ -884,11 +884,11 @@ Joe Polish は、元弁護士で現在は自己啓発会社ニュー・ピーク
 
 ## 274. Success Unshared is Failure - I Love Marketing Bonus Episode
 
-発行済み: 2016-05-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/257ILoveMarketing_JPD.mp3?dest-id=200948)
+発行済み: 2016-05-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/257ILoveMarketing_JPD.mp3?dest-id=200948)
 
 Joe Polish は、ポール・ミッチェル・ヘア製品とパトロン・テキーラの共同創設者である起業家のジョン・ポール・デジョリアに、ホームレスから億万長者の地位への立ち上がりについてインタビューします。デジョリア氏は、自分の成功は、サバイバル モードに留まるのではなく、容赦なく一歩ずつ前進し、すべての顧客との関係を 1 回の販売ではなく長期的な再注文として扱い、共有されない成功は失敗であるという考えに従って生きたことによるものだと信じています。彼は、従業員への寛大な福利厚生、電子メールを避けて電話や手書きのメモを通じて個人的なつながりを維持すること、節約と朝の振り返りに関する規律ある習慣について説明します。彼はまた、携帯電話サービスや自然療法における新しい事業に加え、孤児、依存症の回復、困難に直面しているコミュニティを支援する慈善プロジェクトについても紹介しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - たとえ困難な状況であっても、サバイバルモードに落ち着くのではなく、少しずつ前進し続けてください。
 - ビジネスを単一の取引ではなく、信頼と再注文に基づいて構築された継続的な関係として扱い、共有されない成功は失敗であることを忘れないでください。
@@ -896,11 +896,11 @@ Joe Polish は、ポール・ミッチェル・ヘア製品とパトロン・テ
 
 ## 275. Meetings Suck! - I Love Marketing Episode #258
 
-発行済み: 2016-05-30 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing258.mp3?dest-id=200948)
+発行済み: 2016-05-30 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILoveMarketing258.mp3?dest-id=200948)
 
 Joe Polish ビジネスコーチのキャメロン・ヘロルド氏に、会議の修正に関する著書についてインタビューします。キャメロン氏は、会議が気分が悪いのは、人々の運営が下手だからであり、会議自体が役に立たないからではないと主張する。彼は、明確な 1 文の目的、最大 3 つの結果、期限付きの議題、および最新情報、ブレーンストーミング、グループの決定などの項目ごとに定義されたコミュニケーション スタイルを中心に構築されたシステムをレイアウトします。彼は、時間どおりに開始すること、早めに終了すること、司会者、タイムキーパー、アイデア駐車場を割り当てること、静かな人の意見を聞きやすくするために付箋を使用することなどを取り上げています。この講演では、リトリート、理事会会議、スキルレベルごとの仕事の委任についても触れられています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - すべての会議は、出席者が出席する理由を理解できるように、明確な目的、最大 3 つの成果、および時間指定された議題で始まる必要があります。
 - モデレータ、タイムキーパー、逸脱したアイデアの保管場所など、明確な役割を割り当てることで、ディスカッションが順調に進み、全員の時間が尊重されます。
@@ -908,11 +908,11 @@ Joe Polish ビジネスコーチのキャメロン・ヘロルド氏に、会議
 
 ## 276. Separate Yourself From The Circle - I Love Marketing Episode #259
 
-発行済み: 2016-06-03 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_Podcast_-_Clint_Arthur_259.mp3?dest-id=200948)
+発行済み: 2016-06-03 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_Podcast_-_Clint_Arthur_259.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、競合他社から目立つために起業家の認識されるステータスを高めることについて、ステータス ファクトリーの創設者であるメディア トレーナーのクリント アーサーと話します。クリントは、ウォートン校の卒業生からハリウッド志望になり、タクシー運転手に至るまでの軌跡を語り、マリファナをやめて目覚めた瞬間が、テレビプロデューサーに自分を売り込むきっかけになった経緯を語った。彼は、無料のテレビ出演を獲得するための公式を分析し、ローカルでタイムリーなフック、有名人の名前への言及、小道具、デモンストレーション、思い出に残るテイクアウト、そして特徴的な衣装をカバーしています。彼は、テレビの予約を利用してより大きな契約を獲得した普通の経営者の例を挙げています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 一般の企業であっても、地元のテレビに出演することで有名人としての地位を築き、より大きな契約や紹介につながる可能性があります。
 - テレビでの強力なピッチは、タイムリーなローカルフック、認識可能な名前の参照、視覚的な小道具やデモンストレーション、そして記憶に残るポイントを組み合わせたものです。
@@ -920,11 +920,11 @@ Joe Polish と Dean Jackson は、競合他社から目立つために起業家�
 
 ## 277. Shorten The Gap with Mark Lack and Joe Polish - I Love Marketing Episode #260
 
-発行済み: 2016-06-14 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/260_Shorten_The_Gap___Mark_Lack_with_Joe_Polish_on_I_Love_Marketing_-_Episode_260.mp3?dest-id=200948)
+発行済み: 2016-06-14 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/260_Shorten_The_Gap___Mark_Lack_with_Joe_Polish_on_I_Love_Marketing_-_Episode_260.mp3?dest-id=200948)
 
 Joe Polish は、若い自己啓発コーチであり、『Shorten the Gap』の著者である Mark Lack に、考え方とマーケティングについてインタビューします。マークは、ペイントボール競技のキャリアと初期のトニー・ロビンスの講演が、お金を追うことよりも成長と貢献に重点を置くことをどのように形作ったかを共有し、より多くになること、より多くを与えること、そしてより多くのものを自然に持たせることの枠組みを説明します。彼は、自信を築くために文脈と行動パターンを使用することについて説明し、人間関係は無条件の与えに基づいて構築されるときに最もうまく機能すると強調します。マーケティングに関しては、小規模なコミットメントを通じて事前に資格のある見込み客をカバーし、尊敬される企業からの信頼を借り、リスク反転保証を利用し、見込み客にリーチするための新しい方法を常にテストしています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 長期的な成功は、お金や地位を直接追い求めるのではなく、継続的に自分自身を成長させ、他者に貢献することで成長します。
 - 小さなコミットメント、紹介、尊敬される人々との付き合いを通じて、見込み客との信頼関係を築くことで、その後の営業会話がはるかに容易になります。
@@ -932,11 +932,11 @@ Joe Polish は、若い自己啓発コーチであり、『Shorten the Gap』の
 
 ## 278. Lessons from Twitter's Jack Dorsey and Growing your Business with Joe Polish, Mike Koenigs, Nick Janicki, and Jason Fladlien - I Love Marketing Episode #261
 
-発行済み: 2016-06-20 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Lessons_from_Twitters_Jack_Dorsey_and_Growing_your_Business__Joe_Polish_Mike_Koenigs_Nick_Janicki_and_Jason_Fladlien_on_I_Love_Marketing_-_Episode_261.mp3?dest-id=200948)
+発行済み: 2016-06-20 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Lessons_from_Twitters_Jack_Dorsey_and_Growing_your_Business__Joe_Polish_Mike_Koenigs_Nick_Janicki_and_Jason_Fladlien_on_I_Love_Marketing_-_Episode_261.mp3?dest-id=200948)
 
 Joe Polish は、Twitter 創設者ジャック ドーシーとのランチミーティングの直後に、起業家のマイク ケーニグス、ジェイソン フラドリアン、ニック ジャニッキとのグループ会話を主催します。これらは、ドーシー氏の冷静で使命志向のリーダーシップ スタイルと、収益を追求することよりも明確な単一の目的が重要であるという彼の見解を反映しています。グループはお気に入りの本を共有し、純粋な興奮ではなく、システムや信頼できるチームを使用して各人がどのようにビジネス チャンスをフィルタリングするかについて話し合います。ニックは、メンバーシップ、紹介、人工知能主導のマーケティングを中心としたフロート セラピー ビジネスの構築について説明し、ジェイソンはリアルタイムのウェビナーの販売と結果の追跡を強調し、マイクはベストセラー本の執筆とライブ ビデオを使用して権威を構築することを強調しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 成功した起業家は、純粋に興奮や楽観主義に基づいて行動するのではなく、システムや信頼できるチームを通じて新しい機会をフィルタリングします。
 - メンバーシップ、紹介プログラム、人工知能主導のマーケティングなどの定期的な収益ツールにより、サービス ビジネスを劇的に成長させることができます。
@@ -944,11 +944,11 @@ Joe Polish は、Twitter 創設者ジャック ドーシーとのランチミー
 
 ## 279. Turning Your Ideas Into a Business and the Value of Knowing Your Business with  Joe Polish and Anthony Amos - I Love Marketing Episode #262
 
-発行済み: 2016-06-27 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Turning_Your_Ideas_Into_a_Business_and_the_Value_of_Knowing_Your_Business__Joe_Polish_and_Anthony_Amos_on_I_Love_Marketing_-_Episode_262.mp3?dest-id=200948)
+発行済み: 2016-06-27 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Turning_Your_Ideas_Into_a_Business_and_the_Value_of_Knowing_Your_Business__Joe_Polish_and_Anthony_Amos_on_I_Love_Marketing_-_Episode_262.mp3?dest-id=200948)
 
 Joe Polish は、オーストラリア全土に 200 店舗以上を展開する移動式犬グルーミング フランチャイズである HydraDog を共同設立したオーストラリア人起業家、アンソニー エイモス氏にインタビューします。アンソニーは、10代の頃に弟と一緒にビジネスを始め、馴染みのない不動産開発に多角化して富の多くを失い、家族で米国に移住して小さなキャンピングカーに住みながら、救助活動への資金提供と新しいフランチャイズの宣伝のために犬を洗うチャリティーツアーを主催して再建したと語る。彼は、ビジネス パートナーを慎重に選ぶこと、人々についての直感を信頼すること、家族と一緒にいること、そしてパートナーを従業員ではなく株式保有者として扱うことについて回想しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - サービスから不動産開発に飛び込むなど、実績のある専門知識以外のビジネスに多角化することは、起業家にとってよくある、そしてコストのかかる間違いです。
 - 利用可能な投資家からお金を追いかけることよりも、真の相性と信頼できる直感に基づいてビジネス パートナーを選択することが重要です。
@@ -956,11 +956,11 @@ Joe Polish は、オーストラリア全土に 200 店舗以上を展開する�
 
 ## 280. Telling Your Story and Finding Your Stage with  Joe Polish and Sean Stephenson - I Love Marketing Episode #263
 
-発行済み: 2016-07-04 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Telling_Your_Story_and_Finding_Your_Stage__Joe_Polish_and_Sean_Stephenson_on_I_Love_Marketing_-_Episode_263.mp3?dest-id=200948)
+発行済み: 2016-07-04 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Telling_Your_Story_and_Finding_Your_Stage__Joe_Polish_and_Sean_Stephenson_on_I_Love_Marketing_-_Episode_263.mp3?dest-id=200948)
 
 Joe Polish は、人々が不安を乗り越えられるよう支援することで知られるプロの講演者で作家のショーン・スティーブンソンに、講演を通じて影響力と収入を築くことについてインタビューします。スティーブンソンは、弱い話者は自分自身に焦点を当てますが、強い話者は聴衆にすでに存在する痛みにつながると説明します。彼は、注目を集める意外な展開を伴うストーリーテリングと、ストーリー、グループ活動、および重要なポイントから構築されるあらゆるトークのシンプルな構造について説明します。また、講演を実際のビジネスとして扱うこと、価値が証明されたら割増料金を請求すること、より大きなステージへの扉を開く、つながりの深い人々との関係を育むことについても議論しています。スティーブンソン氏は、有料講演者を目指す人向けのライブ トレーニング イベントを宣伝して締めくくりました。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 効果的な話し方は、話し手自身のエゴや議題ではなく、聴衆の本当の痛みやニーズに焦点を当てることから生まれます。
 - ストーリー、アクティビティ、要点のシンプルで繰り返し可能な構造により、時間の制約下でも、あらゆるトークを簡単に構築、適応、提供できるようになります。
@@ -968,11 +968,11 @@ Joe Polish は、人々が不安を乗り越えられるよう支援すること
 
 ## 281. Connection, Networking and the Pursuit of Happiness with  Joe Polish and Dave Will - I Love Marketing Episode #264
 
-発行済み: 2016-07-11 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Connection_Networking_and_the_Pursuit_of_Happiness__Joe_Polish_and_Dave_Will_on_I_Love_Marketing_-_Episode_264.mp3?dest-id=200948)
+発行済み: 2016-07-11 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Connection_Networking_and_the_Pursuit_of_Happiness__Joe_Polish_and_Dave_Will_on_I_Love_Marketing_-_Episode_264.mp3?dest-id=200948)
 
 インタビュアーのデイブ・ウィルがJoe Polishに、一文無しで依存症の若いカーペットクリーナーからジーニアス・ネットワークの創設者に至るまでの個人的な軌跡について語ります。 Polish は、幼少期のトラウマや依存症について率直に語り、お金や地位ではなく、瞑想、運動、休息などの毎日の儀式から真の幸福がどのように得られるかを説明しています。彼は、痛みを伴う経験を成長の糧に変えることについて説明し、起業家精神を問題を人々がお金を払う解決策に変えることだと説明しています。 Polish 氏はまた、消費者ガイドや録音されたメッセージを通じて、カーペットクリーニング業界における先駆的な教育ベースのマーケティングについて詳しく語り、その考え方がどのようにして Genius Network に発展したかを説明します。Genius Network は、有料のディスカッション ミーティングやイベントを通じてトップ起業家を結びつける彼のハイレベル グループです。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 持続的な幸福は、お金、成果、他人からの承認ではなく、睡眠、運動、瞑想などの一貫した健康習慣から得られます。
 - 痛みを伴う個人的な経験は、有意義な起業家活動を推進する共感とモチベーションの源となる可能性があります。
@@ -980,11 +980,11 @@ Joe Polish は、人々が不安を乗り越えられるよう支援すること
 
 ## 282. The Entrepreneurial Personality Type, the Shortcut to Capital and more with Alex Charfen and Joe Polish - I Love Marketing Episode #265
 
-発行済み: 2016-07-18 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Entrepreneurial_Personality_Type_the_Shortcut_to_Capital_and_more__Alex_Charfen_with_Joe_Polish_on_I_Love_Marketing_-_Episode_265.mp3?dest-id=200948)
+発行済み: 2016-07-18 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Entrepreneurial_Personality_Type_the_Shortcut_to_Capital_and_more__Alex_Charfen_with_Joe_Polish_on_I_Love_Marketing_-_Episode_265.mp3?dest-id=200948)
 
 Joe Polish が、起業家の性格タイプに関する著書について、著者でコンサルタントのアレックス・シャーフェンと話します。シャーフェンは、従来の社会規範に適合しようと奮闘する、衝動的で落ち着きのない人々は壊れているのではなく、異なる配線をしており、歴史の偉大な功績者たちも共有していた障害という誤ったレッテルを貼られることが多いと主張する。彼は起業家を、生きていると実感するために勢いが必要なハンターであると表現し、過剰なプレッシャーや騒音がどのようにして圧倒され、間違った決断を引き起こすかを説明します。圧倒を軽減するための彼の枠組みは、次のステップについて部分的に明確にすること、不必要なプレッシャーを軽減すること、そして孤立するのではなく同じ考えを持つコミュニティからの支援を求めることに重点を置いています。シャーフェンは、資本主義と貢献をこの性格タイプの自然な表現として組み立てています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 障害、落ち着きのなさ、激しさ、感受性の高さなどと分類されることが多い特性は、歴史上の偉業の背後にある同じ特性であることがよくあります。
 - 圧倒されるのは、高いプレッシャーと不明確な方向性が組み合わさった結果ですが、次のステップについて部分的にでも明確になると、その緊張は和らぎます。
@@ -992,11 +992,11 @@ Joe Polish が、起業家の性格タイプに関する著書について、著
 
 ## 283. How to Rock the Room, Communicate with Impact Anywhere, Anytime with Victoria Labalme - I Love Marketing Episode #266
 
-発行済み: 2016-07-25 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/How_to_Rock_the_Room_Communicate_with_Impact_Anywhere_Anytime__Victoria_Labalme_on_I_Love_Marketing__Episode_266.mp3?dest-id=200948)
+発行済み: 2016-07-25 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/How_to_Rock_the_Room_Communicate_with_Impact_Anywhere_Anytime__Victoria_Labalme_on_I_Love_Marketing__Episode_266.mp3?dest-id=200948)
 
 このエピソードでは、Genius Network イベントで収録されたパフォーマンス コーチの Victoria Labalme による、より大きな影響力を持つコミュニケーションについての基調講演を特集します。彼女は、多忙な起業家がどのようにしてベルトコンベアーのような急いでいるような考え方に陥り、日々の意味を失ってしまうのかを説明し、ビジネスを支えたり、本当の目的を持って話をしたりできる、個人的なスルーライン、つまり人生の核となる信念を見つけるための演習を提供します。ラバルム氏は、優れたコミュニケーションはアートのように機能し、情報を伝えるのではなく時間を止めて体験を生み出すものだと主張します。彼女は、強力な内容、明確な構成、自信を持った伝え方という、あらゆるプレゼンテーションに必要な 3 つの要素について概説するとともに、固いペルソナや意図的に計画された冒頭と締めくくりよりも、完全な個性を強調します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - コミュニケーションとビジネス活動を目的に沿って個人的なものに結び直すと、仕事が単なるタスクではなく、意味のあるものに感じられるようになります。
 - 優れたプレゼンテーションは、情報を伝えるだけでなく、聴衆に記憶に残る体験を生み出すことで、芸術のように機能します。
@@ -1004,11 +1004,11 @@ Joe Polish が、起業家の性格タイプに関する著書について、著
 
 ## 284. The Tale of the Handwritten Note with Steve Sims - I Love Marketing Episode #267
 
-発行済み: 2016-08-01 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Tale_of_the_Handwritten_Note__Steve_Sims_on_I_Love_Marketing__Episode_267.mp3?dest-id=200948)
+発行済み: 2016-08-01 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Tale_of_the_Handwritten_Note__Steve_Sims_on_I_Love_Marketing__Episode_267.mp3?dest-id=200948)
 
 このエピソードでは、Genius Network イベントで録音された、高級コンシェルジュ会社 Bluefish の創設者 Steve Sims の基調講演を紹介します。シムズ氏は、著名なクライアントに非日常的な体験を提供することで知られており、単純な手書きのメモの方が、デジタル マーケティングよりもはるかに個人的なつながりを構築できると主張しています。同氏は、強力な電子メールキャンペーンでさえ購読者のほんの一部にしか届かない一方、手書きのメモやはがきはほとんどの場合開封され、記憶に残ると指摘する。彼は、感謝の気持ちを示し、非個人的なデジタルコミュニケーションから目立つために、スタッフ、家族、ベンダー、顧客に短く個人的で遊び心のある手書きのメモを送ることを聴衆に奨励し、この小さくて低コストの習慣を強力な関係構築ツールとして組み立てています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 手書きのメモは、物理的な郵便物を受け取ることがほとんどなくなったため、電子メールよりも強力で記憶に残る個人的なつながりを生み出します。
 - 優れた電子メール キャンペーンであっても、購読者のほんの一部しかリーチできないため、電子メールのみに依存すると、ほとんどの視聴者にリーチできなくなります。
@@ -1016,11 +1016,11 @@ Joe Polish が、起業家の性格タイプに関する著書について、著
 
 ## 285. Influence, Communication, and Speaking Mastery with Joel Weldon and Joe Polish - I Love Marketing Episode #268
 
-発行済み: 2016-08-08 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Influence_Communication_and_Speaking_Mastery__Joel_Weldon_with_Joe_Polish_on_I_Love_Marketing__Episode_268.mp3?dest-id=200948)
+発行済み: 2016-08-08 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Influence_Communication_and_Speaking_Mastery__Joel_Weldon_with_Joe_Polish_on_I_Love_Marketing__Episode_268.mp3?dest-id=200948)
 
 Joe Polish は、元内気な大工から受賞歴のあるプロのスピーカーに転身したベテラン スピーキング コーチのジョエル ウェルドンに、プレゼンテーションを効果的にするものについてインタビューします。ウェルドン氏は、優れた講演者はカリスマ性やエンターテイメント性ではなく、聴衆がその後に行動を起こすかどうかによって決まると主張する。彼は、明確な聴衆、そのニーズ、恐れ、過去の勝利、さらに 1 つの焦点を絞ったメッセージと行動喚起を中心にトークを組み立てる方法を概説し、ビジュアルがシンプルで話の内容と一致する必要がある理由を説明します。ウェルドンは、人は自分の考えたとおりになるというナイチンゲール伯爵のメッセージを聞いて自分のキャリアがどのように変わったかを語り、何かを改善するか放棄するかを決定するためのルールについて説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 効果的なプレゼンテーションは、ユーモア、カリスマ性、洗練さではなく、聴衆がその後実際に行動を起こすかどうかによって評価されます。
 - 聴衆のニーズ、恐れ、過去の成功を理解することで、講演者は同じ核となるメッセージをグループごとに異なる形で組み立てることができます。
@@ -1028,11 +1028,11 @@ Joe Polish は、元内気な大工から受賞歴のあるプロのスピーカ
 
 ## 286. Optimize, Automate, Outsource and The Art of Less Doing with Ari Meisel, Nick Sonnenberg, Dean Jackson and Joe Polish - I Love Marketing Episode #269
 
-発行済み: 2016-08-15 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Optimize_Automate_Outsource_and_The_Art_of_Less_Doing__Ari_Meisel_and_Nick_Sonnenberg_with_Dean_Jackson_and_Joe_Polish_on_I_Love_Marketing__Episode_269.mp3?dest-id=200948)
+発行済み: 2016-08-15 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Optimize_Automate_Outsource_and_The_Art_of_Less_Doing__Ari_Meisel_and_Nick_Sonnenberg_with_Dean_Jackson_and_Joe_Polish_on_I_Love_Marketing__Episode_269.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson は、アウトソーシング会社 Less Doing の創設者である Ari Meisel と Nick Sonnenberg に、タスクの最適化、自動化、アウトソーシングによる過剰な負荷の削減について語ります。マイゼルは、重篤な病気を克服しながら、時間管理を通じてストレスを軽減することが不可欠であることを学び、どのようにしてこの方法を構築したかについて説明します。ゲストたちは、起業家が自分の強み以外のタスクにどのように時間を浪費しているかを説明し、熟練したアシスタントは要求そのものよりも優れた解決策を見つけることが多いため、固定されたプロセスではなく望ましい結果を委任することを奨励しています。彼らは、コミュニケーションと追跡のためのお気に入りのツールと、サービスの価格設定について話し合います。講演は、自分だけが特定のタスクを実行できると思い込むのをやめるようにリスナーに促して終了します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 過剰な作業を軽減するには、タスクを最適化し、自動化し、残ったものをアウトソーシングするという一連の手順を通じて最も効果的です。
 - 固定された一連の手順ではなく、望ましい結果を委任することで、熟練したアシスタントが当初の想像よりも優れたソリューションを見つけられることがよくあります。
@@ -1040,11 +1040,11 @@ Joe Polish と Dean Jackson は、アウトソーシング会社 Less Doing の�
 
 ## 287. The Genius Network Scorecard with Dean Jackson and Joe Polish - I Love Marketing Episode #270
 
-発行済み: 2016-08-22 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Genius_Network_Scorecard__Dean_Jackson_and_Joe_Polish_on_I_Love_Marketing__Episode_270.mp3?dest-id=200948)
+発行済み: 2016-08-22 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Genius_Network_Scorecard__Dean_Jackson_and_Joe_Polish_on_I_Love_Marketing__Episode_270.mp3?dest-id=200948)
 
 Joe Polish と Dean Jackson では、Strategic Coach の Dan Sullivan が作成した自己評価ツールである Genius Network Scorecard を紹介します。彼らは、高い業績を上げている起業家の 8 つの考え方を説明します。それは、野心、意欲的に行動すること、寛大さ、達成することに楽しみを見つけること、マーケティングを尊重すること、指導力があること、模範を示して指導すること、継続的な成長を求めることです。それぞれの考え方は 4 段階で 1 から 12 に評価され、行き詰まりや恐れのある思考から、広がりと自信に満ちた思考へと移行します。ジョーは、カーペット掃除の日々、有料コーチ、Genius Network コミュニティの話を共有して、各レベルを説明します。ホストはリスナーに自分自身とクライアントを採点し、その結果を改善の指針として使用することを奨励します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Genius Network Scorecard は、野心、意欲、寛大さ、楽しさ、マーケティングの尊重、指導力、リーダーシップ、成長の追求を含む 8 つの考え方で起業家を 1 から 12 のスケールで評価します。
 - 外部の状況のせいにしたり、自己改善を避けるなどの考え方でスコアが低いと認識することは、次に取り組むべきことに直接関係します。
@@ -1052,11 +1052,11 @@ Joe Polish と Dean Jackson では、Strategic Coach の Dan Sullivan が作成�
 
 ## 288. Winning is in Your Mind with Naveen Jain and Joe Polish - I Love Marketing Bonus Episode
 
-発行済み: 2016-08-24 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Winning_is_in_Your_Mind__Naveen_Jain_with_Joe_Polish_on_I_Love_Marketing__Moon_Express.mp3?dest-id=200948)
+発行済み: 2016-08-24 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Winning_is_in_Your_Mind__Naveen_Jain_with_Joe_Polish_on_I_Love_Marketing__Moon_Express.mp3?dest-id=200948)
 
 Genius Network の年次イベントでライブ録画されたもので、Moon Express の創設者である起業家の Naveen Jain 氏が Peter Diamandis 氏に紹介され、民間企業の月への派遣も含め、起業家精神とイノベーションによってあらゆる問題を解決できると主張しています。ナヴィーンは、インドの極度の貧困から米国で大企業を設立するまでの道のりを共有し、教育、医療、きれいな水などの大きな問題には最大のチャンスが秘められているため、小さなことではなく大きな問題を考えるよう聴衆に促します。彼は産業時代の教育モデルを批判し、適応的でパターンベースの学習がどのようにより効果的に機能するかを説明します。彼は最後に、成功とは稼いだお金ではなく、命の数が改善されたことだと定義しています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - ナヴィーン・ジェインは、起業家は問題を解決するために実際に行動を起こすため、起業家は単に問題に気づいたり理論化するだけの人々とは異なると主張します。
 - 同氏は、10億ドルの会社を構築することは、1億ドルの会社を構築するよりも簡単である可能性があると述べています。なぜなら、人々は小さなことを考えるのではなく、大規模で影響の大きな問題に目標を設定する必要があるからです。
@@ -1064,11 +1064,11 @@ Genius Network の年次イベントでライブ録画されたもので、Moon 
 
 ## 289. Vivid Vision with Cameron Herold - I Love Marketing Episode #271
 
-発行済み: 2016-08-29 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Vivid_Vision__Cameron_Herold_on_I_Love_Marketing__Episode_271.mp3?dest-id=200948)
+発行済み: 2016-08-29 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Vivid_Vision__Cameron_Herold_on_I_Love_Marketing__Episode_271.mp3?dest-id=200948)
 
 Genius Network の年次イベントでライブ録画されたもので、著書『Double Double』や『Meeting Suck』で知られるビジネス コーチで作家のキャメロン ヘロルド氏が、典型的なビジョン ステートメントが失敗する理由を説明し、彼の代替案である鮮やかなビジョンを紹介します。彼は、部門、文化、世間の認識を網羅し、3 年後の会社を描く詳細なページを数ページ作成し、その草稿をライターとデザイナーに渡して洗練させることについて説明しました。彼はこれを、あいまいな指示ではなく写真に基づいて作業する請負業者と、情熱的なコア視聴者にアピールするスティーブ・ジョブズに例えています。彼は、このビジョンを展開することで、従業員、顧客、サプライヤーの連携が図られ、彼の会社 1-800-GOT-JUNK がどのように変革されたかを語ります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 一文のビジョン ステートメントでチームの意見が一致することはほとんどありませんが、3 年先の会社を詳細に説明する複数ページにわたる鮮明なビジョンは、全員がそれに向かって取り組むための共有された具体的なイメージを与えてくれます。
 - リーダーは、一人で完璧にしようとするのではなく、鮮やかなビジョンを自分自身で大まかな形で草案し、それをプロのライターやデザイナーに渡して磨きをかける必要があります。
@@ -1076,11 +1076,11 @@ Genius Network の年次イベントでライブ録画されたもので、著�
 
 ## 290. What's That Smell? Success Can Stink! with Sean Stephenson - I Love Marketing Episode #272
 
-発行済み: 2016-09-05 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Whats_That_Smell_Success_Stinks__Sean_Stephenson_on_I_Love_Marketing__Episode_272.mp3?dest-id=200948)
+発行済み: 2016-09-05 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Whats_That_Smell_Success_Stinks__Sean_Stephenson_on_I_Love_Marketing__Episode_272.mp3?dest-id=200948)
 
 ジーニアス・ネットワークの年次イベントでライブ録音されたもので、重度の骨疾患により車椅子生活を余儀なくされているセラピストでベストセラー作家のショーン・スティーブンソンが、困難に立ち向かうことについて正直さとユーモアを交えて語ります。彼は、学校でのトイレでの痛ましい事故の後、子供時代に自分を否定した瞬間を語り、すべてがうまくいっているふりをしていると、助けてくれる人たちから人々を孤立させるだけだと説明します。彼は、国会議事堂のエレベーターに閉じ込められたことについての滑稽な話を共有し、悪い状況の何が面白いのかを尋ねることが恥とストレスを和らげることができることを示しています。彼は聴衆に対し、葛藤を正直に認め、自分自身をあまり深刻に考えすぎないようにと訴えて締めくくった。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 葛藤を認めずにすべてがうまくいっているふりをすることは、誰かに最も近い人々を守るどころか遠ざけてしまいます。
 - 困難な状況の何が面白いのかを尋ねると、恥ずかしさや当惑が笑いと安堵に変わることがあります。
@@ -1088,11 +1088,11 @@ Genius Network の年次イベントでライブ録画されたもので、著�
 
 ## 291. Creating Business Breakthroughs, Entrepreneurship, and the Power of Broke with Daymond John and Jay Abraham - I Love Marketing Bonus Episode
 
-発行済み: 2016-09-09 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Creating_Business_Breakthroughs_Entrepreneurship_and_the_Power_of_Broke__Daymond_John_and_Jay_Abraham__Bonus_Episode.mp3?dest-id=200948)
+発行済み: 2016-09-09 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Creating_Business_Breakthroughs_Entrepreneurship_and_the_Power_of_Broke__Daymond_John_and_Jay_Abraham__Bonus_Episode.mp3?dest-id=200948)
 
 Joe Polish は、Shark Tank の投資家であり FUBU 創設者の Daymond John と、マーケティング戦略家の Jay Abraham にインタビューし、Genius Network メンバー向けのセッションをプレビューします。デイモンド氏は、成長が保証されない限り外部投資家を避ける理由を説明し、資本ではなく機知と創造性がいかに多くの起業家の躍進を促進するかを示す著書『The Power of Broke』の背後にある考え方を説明します。ジェイ氏は、1 つの大きな修正ではなく、ビジネス全体にわたる小さな複合的な改善を多数見つけることについて説明し、有益なアドバイスを得るために明確で影響力の高い質問をすることを強調します。両者とも、エゴを抑制し、顧客のニーズを自己宣伝よりも重要なものとして扱うことについて話しています。デイモンド氏はまた、世界的な起業家精神を促進するホワイトハウスでの役割についても説明した。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - デイモンド・ジョン氏は通常、外部投資家を避け、成長が保証され、成果が何倍にもなる可能性がある場合にのみ資本を調達すべきだと主張している。
 - マーケティング、価格設定、フォローアップなど、ビジネスの多くの部分にわたる小さな改善が積み重なり、単一の変更よりもはるかに大きな結果につながる可能性があります。
@@ -1100,11 +1100,11 @@ Joe Polish は、Shark Tank の投資家であり FUBU 創設者の Daymond John
 
 ## 292. Insights and Strategies with The Shark with Daymond John and Joe Polish - I Love Marketing Bonus Episode
 
-発行済み: 2016-09-12 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Insights_and_Strategies_with_The_Shark__Daymond_John_with_Joe_Polish_on_I_Love_Marketing.mp3?dest-id=200948)
+発行済み: 2016-09-12 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Insights_and_Strategies_with_The_Shark__Daymond_John_with_Joe_Polish_on_I_Love_Marketing.mp3?dest-id=200948)
 
 Genius Network の年次イベントでライブ録画されたJoe Polish は、Shark Tank の投資家であり FUBU 創設者である Daymond John に、ゼロから数十億ドルのブランドを構築することについてインタビューしています。デイモンドは、子供の頃、母親の家を抵当に入れて FUBU を立ち上げた初期の起業家精神と、サムスンとの提携によって事業が救われるまで、危うくすべてを失いかけた経済的失敗について語ります。彼は、製品そのものよりも流通と戦略的パートナーシップの方が重要であると説明し、初期の損失の後、シャークタンクへの投資がどのように改善したかを説明し、忠実なチームメンバーを雇用するためのアプローチを共有しています。彼はまた、時間管理の苦闘や、小規模の独立系クリエイターやインフルエンサーによる小売業の再構築への移行についても語ります。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - デイモンド・ジョンは、成功は独自の製品を持っているかどうかよりも、販売、ポジショニング、強力な戦略的パートナーシップの構築に依存すると主張します。
 - 彼は、キャッシュ フローと資金調達について初期の段階で高価な教訓を学び、新しいビジネスを始めるきっかけとなるのは無知と勇気であることが多いと指摘しました。
@@ -1112,11 +1112,11 @@ Genius Network の年次イベントでライブ録画されたJoe Polish は、
 
 ## 293. Back Pain Permanent Healing: Understanding the Myths, Lies, and Confusion About Pain with Steve Ozanich and Joe Polish - I Love Marketing Bonus Episode
 
-発行済み: 2016-09-14 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_-_Healthy_Life__1.mp3?dest-id=200948)
+発行済み: 2016-09-14 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_-_Healthy_Life__1.mp3?dest-id=200948)
 
 Joe Polish は、心身の健康コンサルタントであり、ジョン・サーノ博士によって開発された概念である緊張性筋神経症候群 (TMS) に関する本の著者であるスティーブ・オザニッチにインタビューします。彼らは、ほとんどの慢性的な背中、首、関節の痛みは、スキャン画像で示される構造的な問題によって引き起こされるのではなく、多くの場合、成績優秀で自己志向型の人に見られる、抑圧された怒り、ストレス、未解決の幼少期の感情から脳が気をそらすことによって引き起こされると主張しています。ジョーは、彼自身の痛みとの長い闘いと、この概念を理解することでどのように解放がもたらされたかを語ります。スティーブは、治癒は物理的な治療ではなく知識と自己検査から得られると説明し、数十年にわたる痛みの後の自身の回復について説明します。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 背中、首、関節の慢性的な痛みは、画像で示される構造的な問題によってではなく、抑圧された感情的ストレスから脳が注意を逸らすことによって引き起こされることがよくあります。
 - 完璧主義で自己中心的で、他人を喜ばせることに熱心な人は、怒りや満たされていない感情的なニーズを抑制しているため、特にこの種の苦痛に陥りやすいです。
@@ -1124,11 +1124,11 @@ Joe Polish は、心身の健康コンサルタントであり、ジョン・サ
 
 ## 294. What Highly Successful People Do When Bad Things Happen with Mary Morrissey - I Love Marketing Episode #273
 
-発行済み: 2016-09-26 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/What_Highly_Successful_People_Do_When_Bad_Things_Happen__Mary_Morrissey_on_I_Love_Marketing__Episode_273.mp3?dest-id=200948)
+発行済み: 2016-09-26 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/What_Highly_Successful_People_Do_When_Bad_Things_Happen__Mary_Morrissey_on_I_Love_Marketing__Episode_273.mp3?dest-id=200948)
 
 ジーニアス・ネットワークの年次イベントでライブ録音されたもので、ライフ・マスタリー・インスティテュートの創設者でライフコーチのメアリー・モリッシーは、挫折に対処するための 3 つのステップのフレームワークを共有しています。それは、現状を受け入れ、良いものを収穫し、残りを残すことです。彼女は、人間がそう判断しない限り、本質的に悪いことは何もないということを若い母親として学んだことを思い出し、危機に反応する前に一時停止して、すぐにパニックに陥るのではなく利点を探すことについて説明します。彼女はこれを、指導者であるボブ・プロクターが多額の経済的損失から再建した話と、大学生の誇張された悪い知らせについてのユーモラスな手紙で説明し、挫折を冷静に捉えることで創造性が保たれることを示している。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - メアリー・モリッシーは、逆境に対する 3 段階のアプローチを教えています。つまり、状況をありのままに受け入れ、その中の良い点を積極的に探し、残りを手放すことです。
 - 悪いニュースに反応する前に、すぐに感情的に反応するのではなく、意図的に一時停止することで、困難な状況で機会を見つけるために必要な創造性が保たれます。
@@ -1136,11 +1136,11 @@ Joe Polish は、心身の健康コンサルタントであり、ジョン・サ
 
 ## 295. DISK: How to Deliver a WOW Experience- Packaging, Products, and Fulfillment - I Love Marketing Bonus Episode
 
-発行済み: 2016-09-28 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/DISK_How_to_Deliver_a_WOW_Experience-_Packaging_Products_and_Fulfillment.mp3?dest-id=200948)
+発行済み: 2016-09-28 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/DISK_How_to_Deliver_a_WOW_Experience-_Packaging_Products_and_Fulfillment.mp3?dest-id=200948)
 
 Joe Polish は、創始者ジョー・フォーリーとともに disc.com をツアーします。彼はジーニアス・ネットワークのメンバーであり、同社は 1980 年代にコンピューターのディスケットを複製することから始まり、著者、講演者、マーケティング担当者向けの大規模な印刷、複製、パッケージング、フルフィルメント ビジネスに成長しました。 Joe Foley 氏は、顧客のニーズに注意深く耳を傾け、よく訓練されたチームを構築し、ほとんどの新規ビジネスを紹介を通じて獲得することによって会社が成長したと説明しています。彼らは、書籍、オーディオおよびビデオ製品、USB ドライブ、ワークブック、イベント資料の制作と、フルフィルメントのロジスティクスおよびクライアントの機密保持について話し合います。この会話では、混雑したデジタル世界でなぜ物理的な製品が依然として強い印象を残すのか、そしてテストと顧客からのフィードバックが時間の経過とともにどのようにより良いオファーやパッケージを形成するのかについて焦点を当てています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - Disc.com は、主にクライアントのニーズに注意深く耳を傾け、一貫して過剰納品を行うことで、小規模なディスケット複製ビジネスから大手フルフィルメント会社に成長しました。
 - 本、USB ドライブ、印刷物などの物理的な製品は、混雑したデジタル受信箱を切り抜け、より個人的で記憶に残るものであるため、際立っています。
@@ -1148,11 +1148,11 @@ Joe Polish は、創始者ジョー・フォーリーとともに disc.com を�
 
 ## 296. The Importance of Sleep with Michael Breus - I Love Marketing Episode #274
 
-発行済み: 2016-10-03 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Importance_of_Sleep__Michael_Breus_on_I_Love_Marketing__Episode_274.mp3?dest-id=200948)
+発行済み: 2016-10-03 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/The_Importance_of_Sleep__Michael_Breus_on_I_Love_Marketing__Episode_274.mp3?dest-id=200948)
 
 Genius Network イベントで録画されたJoe Polish と Dean Jackson では、睡眠の専門家である Michael Breus が、睡眠駆動力と概日時計という 2 つの体内システムがどのようにして良い休息を得るために調整される必要があるかを説明しています。彼は睡眠を浅い睡眠、深い睡眠、レム睡眠の段階に分けて、深い睡眠がどのように身体を修復し、レム睡眠が記憶と学習を強化するかを示しています。彼は、不眠症、睡眠時無呼吸症候群、そして貧困がどのようにしてコルチゾールを上昇させ、テストステロンを低下させ、空腹ホルモンを混乱させ、体重、気分、運動能力に悪影響を与えるかについて取り上げています。実践的なガイダンスには、正しいメラトニンの投与、光療法による時差ぼけのスケジュール設定、飛行機とホテルの睡眠のヒント、戦略的な昼寝の方法、一貫した回復的な睡眠のための 10 の毎日の習慣が含まれます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 睡眠欲と概日時計は同期している必要があり、深い睡眠とレム睡眠は体と心に異なる補完的な回復目的を果たします。
 - 慢性的な睡眠不足はコルチゾールを上昇させ、空腹ホルモンを乱す一方でテストステロンを低下させ、体重増加、気分、意思決定、運動能力を悪化させます。
@@ -1160,11 +1160,11 @@ Genius Network イベントで録画されたJoe Polish と Dean Jackson では�
 
 ## 297. Innovation, New Ideas, and A.I. Changing the Way You Travel with Reggie Chandra - I Love Marketing Bonus Episode
 
-発行済み: 2016-10-05 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Innovation_New_Ideas_and_A.I._Changing_the_Way_You_Travel__Reggie_Chandra.mp3?dest-id=200948)
+発行済み: 2016-10-05 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Innovation_New_Ideas_and_A.I._Changing_the_Way_You_Travel__Reggie_Chandra.mp3?dest-id=200948)
 
 Joe Polish は、交通エンジニアでリズム エンジニアリングの創設者であるレジー チャンドラにインタビューします。リズム エンジニアリングの適応型交通信号技術は、カメラ センサーとルールベースの人工知能を使用して、通勤時間と交差点での衝突事故を削減します。チャンドラは、自分の発明プロセスを、意図的なデザインというよりは、静かに耳を傾けて瞑想することだったと説明し、画期的なアイデアは孤独にあったと信じています。彼は、ビジョンと実装の分離に関するジーノ・ウィックマンの著作に触発され、日常のオペレーターからビジョナリーへの移行、そして利益中心ではなく価値中心であり続けることによって会社を拡大することについて説明しています。同氏はまた、ゆっくりと動き個人のリスクを回避する政府の買い手への販売と、より感情的に動かされる民間部門の販売を対比し、買い手の不安を取り除けば取引が成立すると強調した。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 複雑な交通公式ではなく、通常の人間の論理に基づいて構築されたルールベースの人工知能は、通勤時間、停車時間、交差点での衝突事故を大幅に削減できます。
 - 日常業務から離れてビジョンと戦略に集中すると同時に、実行するチームを信頼することで、創業者は会社をより速く拡大することができました。
@@ -1172,11 +1172,11 @@ Joe Polish は、交通エンジニアでリズム エンジニアリングの�
 
 ## 298. Four Horsemen & The Four Part Plan That Leads To Success with Richard Viguerie - I Love Marketing Episode 275
 
-発行済み: 2016-10-10 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Four_Horsemen__The_Four_Part_Plan_That_Leads_To_Success__Richard_Viguerie_on_I_Love_Marketing__Episode_275.mp3?dest-id=200948)
+発行済み: 2016-10-10 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Four_Horsemen__The_Four_Part_Plan_That_Leads_To_Success__Richard_Viguerie_on_I_Love_Marketing__Episode_275.mp3?dest-id=200948)
 
 Genius Network のイベントで収録されたこの番組では、ダイレクト メールの先駆者で保守的な政治戦略家であるリチャード ヴィゲリーが、数十年にわたる郵便による資金調達を通じて構築したマーケティング フレームワークを共有しています。彼は、自分が四騎士と呼んでいる 4 つの必須事項、すなわち市場で空きポジションを見つけること、競合他社との差別化を公に示すこと、明確なメリットを提供すること、明確なブランドを構築することを挙げ、それらをテレビネットワークや政治キャンペーンの例で説明しています。彼は、明確にするためにビジョン、目標、戦略、戦術を網羅した計画を書き留めることを強調し、その後、テクニック、双方向性、信頼性、緊急性、特にターゲットを絞ったリストなど、強力なダイレクト メールの 9 つの要素を挙げています。彼は最後に、古典的なマーケティングライターの絶え間ない研究を勧めています。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 成功は、オープンな市場での地位、明確な差別化、明白なメリット、明確なブランドという 4 つの基本をしっかりと確立できるかどうかにかかっています。
 - ビジョン、目標、戦略、戦術を網羅した書面による計画は、実行の指針となるだけでなく明確さをもたらし、思考が整理され、優先順位が明確になります。
@@ -1184,11 +1184,11 @@ Genius Network のイベントで収録されたこの番組では、ダイレ�
 
 ## 299. Thinking Big and Bold with Peter Diamandis - I Love Marketing Episode #276
 
-発行済み: 2016-10-17 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Thinking_Big_and_Bold__Peter_Diamandis.mp3?dest-id=200948)
+発行済み: 2016-10-17 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/Thinking_Big_and_Bold__Peter_Diamandis.mp3?dest-id=200948)
 
 Genius Network イベントでの録音では、XPRIZE の創設者で著者のピーター・ディアマンディス氏は、人間の脳はよりゆっくりとした小さな世界に向けて進化しているため、起業家に対して局所的かつ直線的に考えるのではなく指数関数的に考えるよう促しています。同氏は、デジタル化されたツールが破壊的になる前に見かけ上ゆっくりと成長し、物理的オブジェクトをソフトウェアに縮小し、無料に向けてコストを下げ、世界中に普及する新興テクノロジーの6段階のパターンを概説し、デジタルカメラに対するコダックの崩壊を警告として利用している。彼は、ロボット工学、自動運転車、3D 印刷などの急速に変化する分野を調査し、その後、ゲーム化されたチャレンジ、クラウドファンディング、オンデマンドのフリーランス労働者、データ マイニング コンテストなどのツールについて説明します。これらのツールにより、世界的な人材を安価かつ迅速に活用することで、小規模チームが巨大企業を上回る成績を収めることができます。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - デジタル化されるテクノロジーは、最初は欺瞞的なもの、次に破壊的なもの、そして物理的な製品を安価で広く利用可能なソフトウェアに縮小する段階で指数関数的に成長する傾向があります。
 - 大企業は、四半期ごとの報告や既存の成功に囚われて、小規模で機敏な起業家が大企業に取って代わられる余地を生むため、指数関数的な変化に適応できないことがよくあります。
@@ -1196,11 +1196,11 @@ Genius Network イベントでの録音では、XPRIZE の創設者で著者の�
 
 ## 300. How to Eliminate Sales Objections and Erase Price Resistance with Robin Robins - I Love Marketing Episode #277
 
-発行済み: 2016-10-24 · [オリジナルの音声を聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_-_277_for_review.mp3?dest-id=200948)
+発行済み: 2016-10-24 · [オリジナルエピソードを聞く](https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/ilovemarketing/ILM_-_277_for_review.mp3?dest-id=200948)
 
 Genius Network のイベントで収録された情報テクノロジー マーケティング コンサルタントのロビン ロビンス氏は、自社が営業上の反対意見が表面化してから顧客の反対意見を主張するのではなく、見込み顧客が声を上げる前にそれに対処することで成約率を高めた方法を説明しています。彼女は、見込み顧客に公正な市場レートを教え、より高い価格が正当であると感じられるようにする書面による価格設定レポートと、営業電話の前に小さすぎる、高すぎるなどの一般的な疑問を解決するお客様の声を紹介するビデオを掲載した個別の見込み顧客 Web ページを共有しています。同氏はまた、意思決定者に協議への出席を義務付け、販売を繰り返し阻止する少数の反対意見を特定し、事前に回答し続けるために録音された通話を確認するよう求めていると強調した。
 
-**重要なポイント:**
+**私が持ち去ったもの:**
 
 - 効果的な販売とは、マーケティング資料に含まれる反対意見が表面化してから議論するのではなく、見込み客が反対意見を提起する前に、それを予測して無効にすることを意味します。
 - よく調査された価格レポートや教育コンテンツがあれば、より高い価格を正当化し、販売会話が始まる前に信頼を築くことができます。
