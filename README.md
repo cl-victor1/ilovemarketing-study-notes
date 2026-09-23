@@ -1,88 +1,19 @@
-# I Love Marketing podcast transcriber
+# I Love Marketing: Episode Summaries
 
-A single Python script that downloads every episode of the
-[I Love Marketing](https://ilovemarketing.com/podcasts/) podcast (Joe Polish and
-Dean Jackson) and transcribes each one to text on your own Mac.
+Short summaries of every episode of the I Love Marketing podcast with Joe Polish and Dean Jackson, in publishing order from the oldest episode to the newest. Each summary is written in original words from a machine transcript of the episode. It does not quote the show. The podcast and its audio belong to their creators; each entry links to the original audio file.
 
-This repository contains only the script. It does not contain any audio or any
-transcript. The podcast content belongs to its creators; run the script to make
-your own copy for personal use.
+_This is an unofficial fan project. It is not affiliated with I Love Marketing, Joe Polish, or Dean Jackson._
 
-## What it does
+## Episodes
 
-1. Reads the show's public Libsyn podcast feed. The website itself sits behind a
-   web application firewall that blocks scripts, so the feed is the reliable source.
-2. Downloads each episode as an MP3 file.
-3. Transcribes each episode locally with
-   [mlx-whisper](https://github.com/ml-explore/mlx-examples/tree/main/whisper) and
-   the `whisper-large-v3-turbo` model. No application programming interface key and
-   no cloud service is needed.
-4. Writes a plain text transcript and a subtitle file (`.srt`, with timestamps) for
-   each episode.
-
-## Requirements
-
-- A Mac with Apple silicon (M1 or later). mlx-whisper runs on Apple silicon only.
-- [uv](https://docs.astral.sh/uv/). The script declares its own dependencies, so
-  `uv run` installs them on the first run.
-- About 25 gigabytes of free disk space for the full audio archive (about 510
-  episodes). The transcripts take about 70 megabytes.
-
-## Usage
-
-```bash
-uv run podcast.py                  # download and transcribe every episode
-uv run podcast.py --limit 3        # only the 3 newest episodes
-uv run podcast.py --download-only  # download audio, skip transcription
-uv run podcast.py --delete-audio   # delete each MP3 after its transcript is written
-uv run podcast.py --out /path/dir  # write somewhere other than ./data
-uv run podcast.py --model <repo>   # use a different Hugging Face mlx-whisper model
-```
-
-Re-running is safe. The script skips every episode that already has a transcript,
-and it downloads to a `.part` file first, so an interrupted download never looks
-finished.
-
-If one episode fails, the script continues with the rest and lists the failures at
-the end. It exits with status 1 when at least one episode failed.
-
-## Output
-
-```
-data/
-  audio/
-    0001_The_One_Where_We_Start_At_The_Beginning_....mp3
-    ...
-  transcripts/
-    0001_The_One_Where_We_Start_At_The_Beginning_....txt
-    0001_The_One_Where_We_Start_At_The_Beginning_....srt
-    ...
-```
-
-Episodes are numbered from the oldest (`0001`) to the newest, so the file names stay
-the same when new episodes are published. The number is the position in the feed,
-not the episode number in the title.
-
-Each `.txt` file starts with three header lines (title, publish date, audio URL),
-then a blank line, then the transcript with one segment per line.
-
-## Performance
-
-On an Apple M5 Pro, the full archive took about 8 hours, or about 1 minute per
-episode on average. Newer episodes are longer (up to about 95 minutes) and take
-longer to transcribe.
-
-## Known issues
-
-- **Episode 61 (Eben Pagan) has a broken link in the feed.** The feed points to
-  `ILoveMarketing60.mp3` on Libsyn, which returns HTTP 404. The original file is
-  still online at `https://s3.amazonaws.com/ilovemarketing/I+Love+Marketing+60.mp3`
-  (found through the Wayback Machine copy of the 2012 episode page). Download it by
-  hand to `data/audio/0062_Episode_061The_one_with_Eben_Pagan.mp3`, then run the
-  script again; it transcribes audio that is already present.
-- **Whisper can invent text in silence.** The last line of a transcript is
-  sometimes a short phrase that is not in the audio, because the model produces
-  text for the silence at the end of an episode.
-- **Memory use.** The large model needs several gigabytes of memory. Close other
-  heavy applications if the process is stopped for low memory, then run the script
-  again to continue.
+| | 1-100 | 101-200 | 201-300 | 301-400 | 401-500 | 501-510 |
+|---|---|---|---|---|---|---|
+| **English** | [1-100](README.en.001-100.md) | [101-200](README.en.101-200.md) | [201-300](README.en.201-300.md) | [301-400](README.en.301-400.md) | [401-500](README.en.401-500.md) | [501-510](README.en.501-510.md) |
+| **简体中文** | [1-100](README.zh-CN.001-100.md) | [101-200](README.zh-CN.101-200.md) | [201-300](README.zh-CN.201-300.md) | [301-400](README.zh-CN.301-400.md) | [401-500](README.zh-CN.401-500.md) | [501-510](README.zh-CN.501-510.md) |
+| **繁體中文** | [1-100](README.zh-TW.001-100.md) | [101-200](README.zh-TW.101-200.md) | [201-300](README.zh-TW.201-300.md) | [301-400](README.zh-TW.301-400.md) | [401-500](README.zh-TW.401-500.md) | [501-510](README.zh-TW.501-510.md) |
+| **Español** | [1-100](README.es.001-100.md) | [101-200](README.es.101-200.md) | [201-300](README.es.201-300.md) | [301-400](README.es.301-400.md) | [401-500](README.es.401-500.md) | [501-510](README.es.501-510.md) |
+| **Deutsch** | [1-100](README.de.001-100.md) | [101-200](README.de.101-200.md) | [201-300](README.de.201-300.md) | [301-400](README.de.301-400.md) | [401-500](README.de.401-500.md) | [501-510](README.de.501-510.md) |
+| **Français** | [1-100](README.fr.001-100.md) | [101-200](README.fr.101-200.md) | [201-300](README.fr.201-300.md) | [301-400](README.fr.301-400.md) | [401-500](README.fr.401-500.md) | [501-510](README.fr.501-510.md) |
+| **日本語** | [1-100](README.ja.001-100.md) | [101-200](README.ja.101-200.md) | [201-300](README.ja.201-300.md) | [301-400](README.ja.301-400.md) | [401-500](README.ja.401-500.md) | [501-510](README.ja.501-510.md) |
+| **Русский** | [1-100](README.ru.001-100.md) | [101-200](README.ru.101-200.md) | [201-300](README.ru.201-300.md) | [301-400](README.ru.301-400.md) | [401-500](README.ru.401-500.md) | [501-510](README.ru.501-510.md) |
+| **Português** | [1-100](README.pt.001-100.md) | [101-200](README.pt.101-200.md) | [201-300](README.pt.201-300.md) | [301-400](README.pt.301-400.md) | [401-500](README.pt.401-500.md) | [501-510](README.pt.501-510.md) |
